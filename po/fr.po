@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-09-05 21:14-0400\n"
-"PO-Revision-Date: 2011-03-11 18:37+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-01-19 12:49+0100\n"
+"Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,12 @@ msgstr ""
 #. [era]: id=era_imper
 #: Imperial_Era/Imperial_Era.cfg:6
 msgid "Imperial"
-msgstr ""
+msgstr "Impériale"
 
 #. [era]: id=era_imper_heroes
 #: Imperial_Era/Imperial_Era.cfg:25
 msgid "Imperial Champions"
-msgstr ""
+msgstr "Champions impériaux"
 
 #. [era]: id=era_rpg_heroes
 #: Imperial_Era/Imperial_Era.cfg:44
@@ -69,7 +69,7 @@ msgstr ""
 #: Imperial_Era/factions/imper-arendians.cfg:5
 #: Imperial_Era/factions/imper_champs-arendians.cfg:5
 msgid "Arendians"
-msgstr ""
+msgstr "Arendiens"
 
 #. [multiplayer_side]: id=Cavernei, type=Cavernei Lord
 #. [multiplayer_side]: id=Cavernei, type=Cavernei Watcher
@@ -78,7 +78,7 @@ msgstr ""
 #: Imperial_Era/factions/imper_rpg-cavernei.cfg:5
 #: Imperial_Era/factions/imper-cavernei.cfg:5
 msgid "Cavernei"
-msgstr ""
+msgstr "Cavernei"
 
 #. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Bladesman
 #. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Dancer
@@ -96,7 +96,7 @@ msgstr ""
 #: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
 #: Imperial_Era/factions/imper-lavinian_legion.cfg:5
 msgid "Lavinian Legion"
-msgstr ""
+msgstr "Légion lavinienne"
 
 #. [multiplayer_side]: id=Marauders, type=Marauder Pillager
 #. [multiplayer_side]: id=Marauders, type=Marauder Warrior
@@ -105,7 +105,7 @@ msgstr ""
 #: Imperial_Era/factions/imper_rpg-marauders.cfg:5
 #: Imperial_Era/factions/imper_champs-marauders.cfg:5
 msgid "Marauders"
-msgstr ""
+msgstr "Maraudeurs"
 
 #. [multiplayer_side]: id=Orcei Gladiatores, type=Magni Paegniarius
 #. [multiplayer_side]: id=Orcei Gladiatores, type=Magni Pugnator
@@ -131,7 +131,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_The_Haunted_Forest
 #: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:5
 msgid "4p - The Haunted Forest"
-msgstr ""
+msgstr "4j - La Forêt hantée"
 
 #. [multiplayer]: id=multiplayer_The_Haunted_Forest
 #: Imperial_Era/scenarios/multiplayer/4p_The_Haunted_Forest.cfg:6
@@ -177,7 +177,7 @@ msgstr ""
 #. [unit_type]: id=Seal, race=monster
 #: Imperial_Era/units/animals/Seal.cfg:4
 msgid "Seal"
-msgstr ""
+msgstr "Phoque"
 
 #. [unit_type]: id=Seal, race=monster
 #: Imperial_Era/units/animals/Seal.cfg:19
@@ -193,12 +193,12 @@ msgstr ""
 #: Imperial_Era/units/animals/Seal.cfg:23
 #: Imperial_Era/units/animals/Seal_Fleet.cfg:23
 msgid "bite"
-msgstr ""
+msgstr "morsure"
 
 #. [unit_type]: id=Elder Seal, race=monster
 #: Imperial_Era/units/animals/Seal_Elder.cfg:4
 msgid "Elder Seal"
-msgstr ""
+msgstr "Phoque vénérable"
 
 #. [unit_type]: id=Elder Seal, race=monster
 #: Imperial_Era/units/animals/Seal_Elder.cfg:19
@@ -217,7 +217,7 @@ msgstr ""
 #. [unit_type]: id=Fleet Seal, race=monster
 #: Imperial_Era/units/animals/Seal_Fleet.cfg:4
 msgid "Fleet Seal"
-msgstr ""
+msgstr "Phoque agile"
 
 #. [unit_type]: id=Fleet Seal, race=monster
 #: Imperial_Era/units/animals/Seal_Fleet.cfg:19
@@ -232,7 +232,7 @@ msgstr ""
 #. [unit_type]: id=Cavernei Dragonguard, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Dragonguard.cfg:5
 msgid "Dragonguard"
-msgstr ""
+msgstr "Garde dragon"
 
 #. [unit_type]: id=Cavernei Dragonguard, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Dragonguard.cfg:19
@@ -246,6 +246,14 @@ msgid ""
 "Cavernei citadels are both renowned and feared; weapons that have broken the "
 "mightiest of warriors in a single blow."
 msgstr ""
+"Personne ne sait vraiment d'où vient le mot « garde dragon », d'abord "
+"utilisé par leurs semblables, les nains. Certains pensent qu'il provient de "
+"leur arme de prédilection, une espèce de bâton qui crache le feu et la "
+"mort ; d'autres ont supposé que de telles armes pourraient blesser un vrai "
+"dragon, si jamais on devait en revoir un de par le monde. Quoi qu'il en "
+"soit, ces unités, qui gardent les formidables citadelles des caverneis, sont "
+"connues et redoutées pour leurs armes qui ont déjà pulvérisé en un seul coup "
+"les plus puissants des guerriers. "
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -256,17 +264,17 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Bladesman.cfg:31
 #: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:26
 msgid "dagger"
-msgstr ""
+msgstr "dague"
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/dwarves-cavernei/Dragonguard.cfg:34
 msgid "dragonstaff"
-msgstr ""
+msgstr "bâton du dragon"
 
 #. [unit_type]: id=Cavernei Eagle Master, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Master.cfg:5
 msgid "Eagle Master"
-msgstr ""
+msgstr "Maître des aigles"
 
 #. [unit_type]: id=Cavernei Eagle Master, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Master.cfg:20
@@ -275,17 +283,21 @@ msgid ""
 "extension of themselves. This special relationship makes the heart of the "
 "earth-bound tremble, for these mighty pairs may strike from anywhere."
 msgstr ""
+"Les maîtres des aigles ont tellement l'habitude de voler avec leurs montures "
+"que ces oiseaux sont devenus une extension d'eux-mêmes. Cette relation "
+"spéciale fait trembler le cœur des terriens, car ces puissantes créatures "
+"peuvent surgir de nulle part à tout moment."
 
 #. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Master.cfg:28
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:28
 msgid "claws"
-msgstr ""
+msgstr "griffes"
 
 #. [unit_type]: id=Cavernei Eagle Rider, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:5
 msgid "Eagle Rider"
-msgstr ""
+msgstr "Monteur d'aigle"
 
 #. [unit_type]: id=Cavernei Eagle Rider, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:20
@@ -294,11 +306,14 @@ msgid ""
 "Eagle Riders, and discover the world of the skies upon the backs of these "
 "flying beasts."
 msgstr ""
+"Seuls quelques élus peuvent tisser un lien d'amitié avec les puissants "
+"aigles. Ceux qui réussissent deviennent des monteurs d'aigles et découvrent "
+"le monde des cieux sur le dos de ces créatures volantes."
 
 #. [unit_type]: id=Cavernei Fighter, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:5
 msgid "Fighter"
-msgstr ""
+msgstr "Combattant"
 
 #. [unit_type]: id=Cavernei Fighter, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:23
@@ -308,6 +323,10 @@ msgid ""
 "terrain or underground. Though not swift, their power and endurance more "
 "than compensate."
 msgstr ""
+"Les combattants caverneis manient de puissants marteaux et haches de guerre "
+"qui font d'eux de redoutables adversaires en corps à corps. Ils sont "
+"excellents dans les montagnes ou sous terre. Leur lenteur est largement "
+"compensée par leur force et leur endurance."
 
 #. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:28
@@ -320,7 +339,7 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Axeman.cfg:46
 #: Imperial_Era/units/human-marauders/Boatsman.cfg:21
 msgid "axe"
-msgstr ""
+msgstr "hache"
 
 #. [attack]: type=impact
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:36
@@ -329,12 +348,12 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Journeyman.cfg:23
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:39
 msgid "hammer"
-msgstr ""
+msgstr "marteau"
 
 #. [unit_type]: id=Cavernei Guardsman, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:5
 msgid "Guardsman"
-msgstr ""
+msgstr "Garde"
 
 #. [unit_type]: id=Cavernei Guardsman, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:22
@@ -345,6 +364,12 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Les caverneis les plus robustes servent parfois comme gardes dans l'armée. "
+"Lents et sans attaque puissante, ils protègent les flancs d'abord en "
+"absorbant les dégâts puis en projetant leurs lourdes lances sur leurs "
+"ennemis.\n"
+"\n"
+"Remarque : "
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:41
@@ -370,7 +395,7 @@ msgstr ""
 #: Imperial_Era/units/human-nemidians/Champion.cfg:57
 #: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:32
 msgid "spear"
-msgstr ""
+msgstr "lance"
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:50
@@ -380,7 +405,7 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Skirmisher.cfg:38
 #: Imperial_Era/units/elves-wild/Wanderer.cfg:40
 msgid "javelin"
-msgstr ""
+msgstr "javelot"
 
 #. [unit_type]: id=Cavernei Journeymann, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Journeyman.cfg:4
@@ -402,7 +427,7 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:5
 #: Imperial_Era/units/human-marauders/Lord.cfg:5
 msgid "Lord"
-msgstr ""
+msgstr "Seigneur"
 
 #. [unit_type]: id=Cavernei Lord, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:20
@@ -412,17 +437,21 @@ msgid ""
 "target with a thrown hand axe at several paces. Though slow on their feet, "
 "these dwarves are a testament to the prowess of their kin."
 msgstr ""
+"Revêtus d'une armure étincelante, ces nains ressemblent aux rois au-dessous "
+"des montagnes. Ils manient la hache et le marteau avec une grande habileté "
+"et peuvent atteindre une cible à la hachette à plusieurs pas. Même s'ils "
+"sont lents, ces nains prouvent le talent de leurs semblables."
 
 #. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:29
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:30
 msgid "battle axe"
-msgstr ""
+msgstr "hache de bataille"
 
 #. [attack]: type=blade
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:47
 msgid "hatchet"
-msgstr ""
+msgstr "hachette"
 
 #. [unit_type]: id=Cavernei Monitor, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Monitor.cfg:4
@@ -453,7 +482,7 @@ msgstr ""
 #: Imperial_Era/units/dwarves-cavernei/Monitor.cfg:28
 #: Imperial_Era/units/human-arendians/Warlock.cfg:27
 msgid "staff"
-msgstr ""
+msgstr "bâton"
 
 #. [attack]: type=impact
 #: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:34
@@ -488,7 +517,7 @@ msgstr ""
 #. [unit_type]: id=Cavernei Runemaster, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Runemaster.cfg:4
 msgid "Runemaster"
-msgstr ""
+msgstr "Maître des runes"
 
 #. [unit_type]: id=Cavernei Runemaster, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Runemaster.cfg:17
@@ -503,7 +532,7 @@ msgstr ""
 #. [unit_type]: id=Cavernei Sentinel, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:5
 msgid "Sentinel"
-msgstr ""
+msgstr "Sentinelle"
 
 #. [unit_type]: id=Cavernei Sentinel, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:22
@@ -513,11 +542,15 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"La sentinelle, avec son pavois et son grand courage, refuse de se rendre "
+"même face à l'attaque ennemie la plus puissante.\n"
+"\n"
+"Remarque : "
 
 #. [unit_type]: id=Cavernei Stalwart, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:5
 msgid "Stalwart"
-msgstr ""
+msgstr "Nain indéfectible"
 
 #. [unit_type]: id=Cavernei Stalwart, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:21
@@ -528,11 +561,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Les nains indéfectibles, après des années de combat, ont conçu de nouveaux "
+"boucliers et de solides armures avec ce qu'ils ont pris à leurs ennemis. "
+"Malgré leur lenteur, ils sont craints pour leur résistance et leur force.\n"
+"\n"
+"Remarque : "
 
 #. [unit_type]: id=Cavernei Steelclad, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:5
 msgid "Steelclad"
-msgstr ""
+msgstr "Cuirassier"
 
 #. [unit_type]: id=Cavernei Steelclad, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:19
@@ -540,11 +578,13 @@ msgid ""
 "The more experienced Cavernei Steelclad fighters wear heavy chain mail and "
 "plate armor, for which they are rightly famous."
 msgstr ""
+"Les cuirassiers caverneis expérimentés portent de lourdes cottes de mailles "
+"et des armures de plaques qui ont fait, à juste titre, leur renommée."
 
 #. [unit_type]: id=Cavernei Thunderer, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:5
 msgid "Thunderer"
-msgstr ""
+msgstr "Foudroyeur"
 
 #. [unit_type]: id=Cavernei Thunderer, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:19
@@ -553,17 +593,21 @@ msgid ""
 "power of the Cavernei Thunderers, who were able to hurl death from afar "
 "through the apparatus of these strange ... 'wands' they carried into battle."
 msgstr ""
+"Les premiers maraudeurs à rencontrer les nains ont été sidérés par la "
+"puissance des foudroyeurs caverneis, capables de tuer brutalement, à très "
+"longue distance, avec les étranges... « bâtons » qu'ils utilisaient au "
+"combat."
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:34
 #: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:50
 msgid "thunderstick"
-msgstr ""
+msgstr "bâton-tonnerre"
 
 #. [unit_type]: id=Cavernei Thunderguard, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:5
 msgid "Thunderguard"
-msgstr ""
+msgstr "Garde foudroyeur"
 
 #. [unit_type]: id=Cavernei Thunderguard, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:20
@@ -579,6 +623,17 @@ msgid ""
 "Though a single shot from these 'thundersticks' can take several minutes to "
 "prepare, the results are seen by the Dwarves as being well worth the wait."
 msgstr ""
+"Les gardes foudroyeurs caverneis sont renommés pour leur curieux armement, "
+"ces étranges bâtons de bois et de fer qui font un bruit de tonnerre dans "
+"leur furie. Les machinations derrière cet armement sont un mystère, un "
+"secret gardé jusque dans la tombe par les caverneis qui les manient et sont "
+"supposés les avoir forgés. Tout ce qu'on en sait sont des rapports de "
+"caverneis versant une étrange poudre noire dans la gueule de leurs armes, "
+"dont certains disent qu'il s'agit de nourriture pour la bête emprisonnée à "
+"l'intérieur.\n"
+"\n"
+"Même s'il faut plusieurs minutes pour préparer un de ces « bâtons-tonnerres "
+"», les caverneis jugent que les résultats valent le temps investi."
 
 #. [unit_type]: id=Cavernei Watcher, race=cavernei
 #: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:4
@@ -601,7 +656,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Alpine Ranger, race=issaelfr
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:5
 msgid "Alpine Ranger"
-msgstr ""
+msgstr "Rôdeur alpin"
 
 #. [unit_type]: id=Frost Elf Alpine Ranger, race=issaelfr
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:23
@@ -657,7 +712,7 @@ msgstr ""
 #: Imperial_Era/units/elves-wild/Shadowdancer.cfg:24
 #: Imperial_Era/units/elves-wild/Whirlwind.cfg:28
 msgid "sword"
-msgstr ""
+msgstr "épée"
 
 #. [attack]: type=pierce
 #. [attack]: type=impact
@@ -666,7 +721,7 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:26
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:35
 msgid "ice pick"
-msgstr ""
+msgstr "piolet"
 
 #. [attack]: type=pierce
 #. [attack]: type=fire
@@ -695,14 +750,14 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Archer.cfg:32
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:44
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #. [unit_type]: id=Arendian Archer, race=arendian
 #. [unit_type]: id=Frost Elf Archer, race=issaelfr
 #: Imperial_Era/units/human-arendians/Archer.cfg:5
 #: Imperial_Era/units/elves-frost/Archer.cfg:5
 msgid "Archer"
-msgstr ""
+msgstr "Archer"
 
 #. [unit_type]: id=Frost Elf Archer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Archer.cfg:19
@@ -711,11 +766,14 @@ msgid ""
 "archery. Those who prove themselves adept at this skill can hope to rise "
 "high, and perhaps even become leaders of their tribes."
 msgstr ""
+"Comme leurs ancêtres elfes des bois, les elfes des glaces adorent les "
+"prouesses à l'arc. Ceux qui s'y montrent très habiles peuvent espérer "
+"atteindre l'élite, voire devenir chef de leurs tribus."
 
 #. [unit_type]: id=Frost Elf Bladesman, race=issaelfr
 #: Imperial_Era/units/elves-frost/Bladesman.cfg:5
 msgid "Bladesman"
-msgstr ""
+msgstr "Spadassin"
 
 #. [unit_type]: id=Frost Elf Bladesman, race=issaelfr
 #: Imperial_Era/units/elves-frost/Bladesman.cfg:18
@@ -724,11 +782,14 @@ msgid ""
 "they have inherited from their forebears. They will not allow their people "
 "to fall before their enemies."
 msgstr ""
+"Les spadassins incarnent la mémoire et l'honneur de l'armée ; ils portent "
+"des épées imposantes qu'ils tiennent de leurs prédécesseurs. Ils ne "
+"permettront pas que leur peuple tombe avant leurs ennemis."
 
 #. [unit_type]: id=Frost Elf Borealis, race=issaelfr
 #: Imperial_Era/units/elves-frost/Borealis.cfg:5
 msgid "Borealis"
-msgstr ""
+msgstr "Borealis"
 
 #. [unit_type]: id=Frost Elf Borealis, race=issaelfr
 #: Imperial_Era/units/elves-frost/Borealis.cfg:20
@@ -745,7 +806,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Gelus, race=issaelfr
 #: Imperial_Era/units/elves-frost/Gelus.cfg:5
 msgid "Gelus"
-msgstr ""
+msgstr "Gelus"
 
 #. [unit_type]: id=Frost Elf Gelus, race=issaelfr
 #: Imperial_Era/units/elves-frost/Gelus.cfg:19
@@ -754,11 +815,14 @@ msgid ""
 "meant to imply the hail of arrows they are capable of unleashing upon the "
 "unwary foe."
 msgstr ""
+"Les archers les plus habiles sont promus au rang de « gelus », nom qui "
+"rappelle la grêle de flèches qu'ils sont capables de déverser sur des "
+"ennemis imprudents."
 
 #. [unit_type]: id=Frost Elf Glaive Master, race=issaelfr
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:5
 msgid "Glaive Master"
-msgstr ""
+msgstr "Maître pertuisanier"
 
 #. [unit_type]: id=Frost Elf Glaive Master, race=issaelfr
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:19
@@ -774,18 +838,18 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:22
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:23
 msgid "glaive"
-msgstr ""
+msgstr "pertuisane"
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:34
 #: Imperial_Era/units/elves-frost/Glaive_Master.cfg:35
 msgid "azegiz"
-msgstr ""
+msgstr "azegiz"
 
 #. [unit_type]: id=Frost Elf Glaivier, race=issaelfr
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:5
 msgid "Glaivier"
-msgstr ""
+msgstr "Pertuisanier"
 
 #. [unit_type]: id=Frost Elf Glaivier, race=issaelfr
 #: Imperial_Era/units/elves-frost/Glaivier.cfg:18
@@ -804,7 +868,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Ice Dancer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Ice_Dancer.cfg:5
 msgid "Ice Dancer"
-msgstr ""
+msgstr "Danseur des glaces"
 
 #. [unit_type]: id=Frost Elf Ice Dancer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Ice_Dancer.cfg:22
@@ -820,7 +884,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Ice Roamer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:5
 msgid "Ice Roamer"
-msgstr ""
+msgstr "Vagabond des glaces"
 
 #. [unit_type]: id=Frost Elf Ice Roamer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:21
@@ -831,11 +895,16 @@ msgid ""
 "other surfaces. Nonetheless, the abundance of icy surfaces in their homeland "
 "makes the trade worthwhile."
 msgstr ""
+"Les spadassins les plus élégants deviennent des vagabonds des glaces et "
+"perfectionnent l'art de combattre sur l'eau gelée. Cela se paye néanmoins : "
+"leur spécialisation les rends moins aptes à combattre sur d'autres types de "
+"terrains. Mais leur patrie est si riche en surfaces glacées que cela en vaut "
+"la peine."
 
 #. [unit_type]: id=Frost Elf Mistral Cryomancer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:5
 msgid "female^Mistral Cryomancer"
-msgstr ""
+msgstr "Cryomancienne du mistral"
 
 #. [unit_type]: id=Frost Elf Mistral Cryomancer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:23
@@ -856,7 +925,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Mistral Glacialist, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:5
 msgid "female^Mistral Glacialist"
-msgstr ""
+msgstr "Glacialiste du mistral"
 
 #. [unit_type]: id=Frost Elf Mistral Glacialist, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:22
@@ -865,11 +934,14 @@ msgid ""
 "masters of the violent and dangerous winds and frigid temperatures of their "
 "homeland."
 msgstr ""
+"Certains glacialistes du mistral décident d'accroître leurs capacités de "
+"combat et finissent par maîtriser parfaitement les dangereux vents violents "
+"et les températures extrêmement basses de leur patrie."
 
 #. [unit_type]: id=Frost Elf Mistral Magus, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Magus.cfg:5
 msgid "female^Mistral Magus"
-msgstr ""
+msgstr "Mage du mistral"
 
 #. [unit_type]: id=Frost Elf Mistral Magus, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Magus.cfg:19
@@ -884,19 +956,19 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Castellan.cfg:27
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Keeper.cfg:26
 msgid "wand"
-msgstr ""
+msgstr "baguette"
 
 #. [attack]: type=impact
 #: Imperial_Era/units/elves-frost/Mistral_Magus.cfg:35
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Castellan.cfg:39
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Keeper.cfg:38
 msgid "wind"
-msgstr ""
+msgstr "vent"
 
 #. [unit_type]: id=Frost Elf Mistral Rime Castellan, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Castellan.cfg:5
 msgid "female^Mistral Rime Castellan"
-msgstr ""
+msgstr "Châtelaine du givre du mistral"
 
 #. [unit_type]: id=Frost Elf Mistral Rime Castellan, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Castellan.cfg:23
@@ -911,7 +983,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Mistral Rime Keeper, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Keeper.cfg:5
 msgid "Mistral Rime Keeper"
-msgstr ""
+msgstr "Gardienne du givre du mistral"
 
 #. [unit_type]: id=Frost Elf Mistral Rime Keeper, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mistral_Rime_Keeper.cfg:22
@@ -924,7 +996,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Mountaineer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:5
 msgid "Mountaineer"
-msgstr ""
+msgstr "Montagnard"
 
 #. [unit_type]: id=Frost Elf Mountaineer, race=issaelfr
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:22
@@ -939,7 +1011,7 @@ msgstr ""
 #. [unit_type]: id=Frost Elf Yak Knight, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:6
 msgid "Yak Knight"
-msgstr ""
+msgstr "Chevalier sur yak"
 
 #. [unit_type]: id=Frost Elf Yak Knight, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:20
@@ -956,7 +1028,7 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:25
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:24
 msgid "horns"
-msgstr ""
+msgstr "cornes"
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/elves-frost/Yak_Rider.cfg:36
@@ -966,12 +1038,12 @@ msgstr ""
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:36
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:45
 msgid "harpoon"
-msgstr ""
+msgstr "harpon"
 
 #. [unit_type]: id=Frost Elf Yak Rider, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yak_Rider.cfg:6
 msgid "Yak Rider"
-msgstr ""
+msgstr "Monteur de yak"
 
 #. [unit_type]: id=Frost Elf Yak Rider, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yak_Rider.cfg:20
@@ -981,11 +1053,15 @@ msgid ""
 "cannot imagine riding them, the cavalry is rightly feared for their cold "
 "efficiency."
 msgstr ""
+"Certains elfes des glaces ont dompté les yaks sauvages, qu'ils utilisent "
+"maintenant comme montures. Bien que les autres races ne comprennent pas leur "
+"goût pour ces bêtes étranges et ne peuvent même pas envisager de les monter, "
+"cette cavalerie est redoutée pour sa froide efficacité."
 
 #. [unit_type]: id=Frost Elf Yakmount Margrave, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:6
 msgid "Yakmount Margrave"
-msgstr ""
+msgstr "Margrave sur yak"
 
 #. [unit_type]: id=Frost Elf Yakmount Margrave, race=issaelfr
 #: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:21
@@ -1002,7 +1078,7 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Bladespinner, race=sidhe
 #: Imperial_Era/units/elves-wild/Bladespinner.cfg:5
 msgid "Bladespinner"
-msgstr ""
+msgstr "Tournelame"
 
 #. [unit_type]: id=Wild Elf Bladespinner, race=sidhe
 #: Imperial_Era/units/elves-wild/Bladespinner.cfg:19
@@ -1010,6 +1086,9 @@ msgid ""
 "The better warriors of the sidhe are known as bladespinners. They can, it is "
 "said, cut a man in three different places before he will lift his weapon."
 msgstr ""
+"Les meilleurs guerriers sidhs sont appelés tournelames. On dit qu'ils "
+"peuvent toucher trois fois un homme avant que celui-ci n'ait eu le temps de "
+"dégainer son arme."
 
 #. [unit_type]: id=Wild Elf Dark Thunderblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:5
@@ -1027,6 +1106,11 @@ msgid ""
 "be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
+"Quand le premier seigneur sidh est mort au combat, des mages elfes avisés "
+"ont ramassé et gardé précieusement les éclats de son épée destructrice. Ces "
+"fragments de l'arme légendaire servent à enchanter les épées-tonnerres, "
+"données aux sidhs qui ont prouvé leur valeur martiale et qui possèdent la "
+"magie caractéristique de la noblesse."
 
 #. [attack]: type=blade
 #: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:24
@@ -1042,12 +1126,12 @@ msgstr ""
 #: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:36
 #: Imperial_Era/units/elves-wild/Thunderblade.cfg:36
 msgid "lightning"
-msgstr ""
+msgstr "éclair"
 
 #. [unit_type]: id=Wild Elf Fury, race=sidhe
 #: Imperial_Era/units/elves-wild/Fury.cfg:5
 msgid "Fury"
-msgstr ""
+msgstr "Furie"
 
 #. [unit_type]: id=Wild Elf Fury, race=sidhe
 #: Imperial_Era/units/elves-wild/Fury.cfg:18
@@ -1057,11 +1141,15 @@ msgid ""
 "as closely as they like, and their dagger has been felt in the heart of many "
 "a supposedly well-guarded mage."
 msgstr ""
+"Les sauvages furies elfes ne portent pas d'armes extraordinairement "
+"puissantes, mais elles demeurent néanmoins dangereuses. Leur agilité leur "
+"permet de se faufiler discrètement parmi les ennemis, un plus d'un mage que "
+"l'on croyait bien protégé a fini avec une de leurs dagues en plein cœur."
 
 #. [unit_type]: id=Wild Elf Herald, race=sidhe
 #: Imperial_Era/units/elves-wild/Herald.cfg:5
 msgid "Herald"
-msgstr ""
+msgstr "Héraut"
 
 #. [unit_type]: id=Wild Elf Herald, race=sidhe
 #: Imperial_Era/units/elves-wild/Herald.cfg:22
@@ -1069,11 +1157,13 @@ msgid ""
 "The Heralds are sidhe who go out onto the battlefield, singing the warrior "
 "chants that drive the others onwards."
 msgstr ""
+"Les hérauts sidhs entonnent des chants guerriers en allant à la bataille, "
+"galvanisant ainsi ceux qui avancent."
 
 #. [unit_type]: id=Wild Elf Raindancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:5
 msgid "Raindancer"
-msgstr ""
+msgstr "Danseur de la pluie"
 
 #. [unit_type]: id=Wild Elf Raindancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:18
@@ -1084,11 +1174,17 @@ msgid ""
 "young and brash noblemen are uninterested in study, and more likely to go "
 "practice their swordplay than their magic."
 msgstr ""
+"Les membres de la noblesse sidh sont de puissants magiciens. Ils utilisent "
+"leurs pouvoirs pour invoquer des éclairs même dans un ciel dégagé et c'est "
+"cette danse à travers les éclairs qui leur à valu le nom de danseurs de "
+"pluie. Hélas, les nobles, jeunes et vantards, ne sont guère intéressés par "
+"les études et sont plus enclins à améliorer leur maîtrise de l'épée que leur "
+"magie."
 
 #. [unit_type]: id=Wild Elf Shadowdancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Shadowdancer.cfg:5
 msgid "Shadowdancer"
-msgstr ""
+msgstr "Danseur de l'ombre"
 
 #. [unit_type]: id=Wild Elf Shadowdancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Shadowdancer.cfg:19
@@ -1097,11 +1193,14 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+"Ceux qui s'interrogent sur la spécialité des danseurs de l'ombre seraient "
+"bien avisés de ne pas le demander quand il y en a un à proximité... s'ils ne "
+"veulent pas se retrouver avec une épée plantée dans le dos."
 
 #. [unit_type]: id=Wild Elf Stormlord, race=sidhe
 #: Imperial_Era/units/elves-wild/Stormlord.cfg:5
 msgid "Stormlord"
-msgstr ""
+msgstr "Maître-ouragan"
 
 #. [unit_type]: id=Wild Elf Stormlord, race=sidhe
 #: Imperial_Era/units/elves-wild/Stormlord.cfg:19
@@ -1111,16 +1210,20 @@ msgid ""
 "distrust them because of this, but they fear them even more. And if a sidhe "
 "fears someone..."
 msgstr ""
+"Le maître-ouragan a passé toute sa vie à étudier la magie. Il a pour cela "
+"abandonné la pratique des armes et presque toute activité physique. C'est "
+"pour cela que beaucoup d'elfes sidhs se méfient de lui et surtout le "
+"craignent. Et si un sidh craint quelqu'un ..."
 
 #. [attack]: type=energy
 #: Imperial_Era/units/elves-wild/Stormlord.cfg:24
 msgid "lightning staff"
-msgstr ""
+msgstr "bâton-éclair"
 
 #. [unit_type]: id=Wild Elf Tempest, race=sidhe
 #: Imperial_Era/units/elves-wild/Tempest.cfg:5
 msgid "Tempest"
-msgstr ""
+msgstr "Mage-tempête"
 
 #. [unit_type]: id=Wild Elf Tempest, race=sidhe
 #: Imperial_Era/units/elves-wild/Tempest.cfg:18
@@ -1133,17 +1236,17 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Thunderblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Thunderblade.cfg:5
 msgid "Thunderblade"
-msgstr ""
+msgstr "Foudrelame"
 
 #. [attack]: type=blade
 #: Imperial_Era/units/elves-wild/Thunderblade.cfg:24
 msgid "thunderblade"
-msgstr ""
+msgstr "Épée-tonnerre"
 
 #. [unit_type]: id=Wild Elf Tracker, race=sidhe
 #: Imperial_Era/units/elves-wild/Tracker.cfg:5
 msgid "Tracker"
-msgstr ""
+msgstr "Traqueur"
 
 #. [unit_type]: id=Wild Elf Tracker, race=sidhe
 #: Imperial_Era/units/elves-wild/Tracker.cfg:25
@@ -1159,7 +1262,7 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Veiledblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Veiledblade.cfg:5
 msgid "Veiledblade"
-msgstr ""
+msgstr "Lame-perverse"
 
 #. [unit_type]: id=Wild Elf Veiledblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Veiledblade.cfg:18
@@ -1168,13 +1271,16 @@ msgid ""
 "through the enemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
+"Certains sidhs n'aiment pas le combat loyal. Les fantomatiques lames-"
+"perverses peuvent se glisser derrière les défenses ennemies et frapper "
+"furtivement, et souvent mortellement, un adversaire qui ne s'y attend pas."
 
 #. [unit_type]: id=Arendian Wanderer, race=arendian
 #. [unit_type]: id=Wild Elf Wanderer, race=sidhe
 #: Imperial_Era/units/human-arendians/Wanderer.cfg:5
 #: Imperial_Era/units/elves-wild/Wanderer.cfg:5
 msgid "Wanderer"
-msgstr ""
+msgstr "Errant"
 
 #. [unit_type]: id=Wild Elf Wanderer, race=sidhe
 #: Imperial_Era/units/elves-wild/Wanderer.cfg:23
@@ -1184,11 +1290,15 @@ msgid ""
 "with short spears that they use quite ... convincingly, though their real "
 "usefulness is for running ahead."
 msgstr ""
+"Parfois certains sidhs plus solitaires que d'autres préfèrent le pistage et "
+"l'exploration au combat pur et simple. Ceux-ci, appelé « voyageurs », sont "
+"armés de courtes lances qu'ils utilisent de façon plutôt ... convaincante, "
+"même si leur rôle réel est la reconnaissance."
 
 #. [unit_type]: id=Wild Elf Wardancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Wardancer.cfg:5
 msgid "Wardancer"
-msgstr ""
+msgstr "Danseur de guerre"
 
 #. [unit_type]: id=Wild Elf Wardancer, race=sidhe
 #: Imperial_Era/units/elves-wild/Wardancer.cfg:20
@@ -1197,11 +1307,15 @@ msgid ""
 "unbelievable, but he is an amateur compared to a mighty wardancer. For a man "
 "will be killed 3 times over before he touches the ground."
 msgstr ""
+"Les danseurs de guerre sont des légendes vivantes chez les sidhs. Leur "
+"habileté surpasse de très loin celle, déjà incroyable, d'une lame "
+"virevoltante. Certains disent qu'un homme aurait le temps de mourir 3 fois "
+"avant de toucher le sol."
 
 #. [unit_type]: id=Wild Elf Warmage, race=sidhe
 #: Imperial_Era/units/elves-wild/Warmage.cfg:5
 msgid "War Mage"
-msgstr ""
+msgstr "Mage de guerre"
 
 #. [unit_type]: id=Wild Elf Warmage, race=sidhe
 #: Imperial_Era/units/elves-wild/Warmage.cfg:19
@@ -1211,6 +1325,11 @@ msgid ""
 "sword in hand. Their prowess with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
+"Peu de sidhs peuvent rester longtemps éloignés des combats. Les mages de "
+"guerre sont des nobles sidhs qui passent la plupart du temps l'épée à la "
+"main, alors que leur formation de base est la magie. Leurs prouesses au "
+"corps à corps sont facilement comparables à celles des guerriers et leur "
+"magie les aide beaucoup."
 
 #. [unit_type]: id=Arendian Warrior, race=arendian
 #. [unit_type]: id=Marauder Warrior, race=marauder
@@ -1219,7 +1338,7 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Warrior.cfg:5
 #: Imperial_Era/units/elves-wild/Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Guerrier"
 
 #. [unit_type]: id=Wild Elf Warrior, race=sidhe
 #: Imperial_Era/units/elves-wild/Warrior.cfg:19
@@ -1228,11 +1347,15 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
+"Minces et puissants, les guerriers sidhs font de redoutables combattants, "
+"capables d'administrer de rapides et puissants coups d'épée et d'esquiver "
+"facilement. Leur seul point faible est leur fragilité due à leur dégoût des "
+"armures."
 
 #. [unit_type]: id=Wild Elf Warsinger, race=sidhe
 #: Imperial_Era/units/elves-wild/Warsinger.cfg:5
 msgid "Warsinger"
-msgstr ""
+msgstr "Chanteur de guerre"
 
 #. [unit_type]: id=Wild Elf Warsinger, race=sidhe
 #: Imperial_Era/units/elves-wild/Warsinger.cfg:23
@@ -1240,11 +1363,14 @@ msgid ""
 "The Warsinger is a master of the songs of combat. A powerful warrior "
 "himself, he can drive his companions into battle frenzies."
 msgstr ""
+"Le chanteur de guerre est un expert en chants martiaux. Il est lui-même un "
+"puissant guerrier et peut entraîner ses compagnons dans la fureur des "
+"batailles."
 
 #. [unit_type]: id=Wild Elf Whirlwind, race=sidhe
 #: Imperial_Era/units/elves-wild/Whirlwind.cfg:5
 msgid "Whirlwind"
-msgstr ""
+msgstr "Tornade"
 
 #. [unit_type]: id=Wild Elf Whirlwind, race=sidhe
 #: Imperial_Era/units/elves-wild/Whirlwind.cfg:19
@@ -1253,11 +1379,14 @@ msgid ""
 "he cannot face a sword-hacking man in direct combat, but he does not need "
 "to. His skills lie elsewhere."
 msgstr ""
+"Il ne faut pas négliger une tornade. Certes, ses pieds agiles et ses mains "
+"lestes ne lui permettraient pas d'affronter un homme armé en combat direct, "
+"mais ses compétences sont ailleurs."
 
 #. [unit_type]: id=Wild Elf Wildblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Wildblade.cfg:5
 msgid "Wildblade"
-msgstr ""
+msgstr "Lame-folle"
 
 #. [unit_type]: id=Wild Elf Wildblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Wildblade.cfg:18
@@ -1267,11 +1396,15 @@ msgid ""
 "allows them to avoid direct combat, instead going unnoticed through the "
 "battlefront and killing the wounded."
 msgstr ""
+"Beaucoup pourraient vaincre une lame-folle en combat direct, mais ce n'est "
+"pas un problème pour les sidhs : la vivacité de ces guerriers leur permet "
+"d'éviter les confrontations et de se frayer un passage pour aller achever "
+"les blessés."
 
 #. [unit_type]: id=Wild Elf Windlasher, race=sidhe
 #: Imperial_Era/units/elves-wild/Windlasher.cfg:5
 msgid "Windlasher"
-msgstr ""
+msgstr "Déchaineur d'orages"
 
 #. [unit_type]: id=Wild Elf Windlasher, race=sidhe
 #: Imperial_Era/units/elves-wild/Windlasher.cfg:18
@@ -1288,7 +1421,7 @@ msgstr ""
 #. [unit_type]: id=Wild Elf Windrunner, race=sidhe
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:5
 msgid "Windrunner"
-msgstr ""
+msgstr "Coureur des vents"
 
 #. [unit_type]: id=Wild Elf Windrunner, race=sidhe
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:26
@@ -1301,6 +1434,13 @@ msgid ""
 "shrub, giving it a poisonout tinge, but they would consider it cowardly to "
 "do this for their javelins as well."
 msgstr ""
+"Les coureurs des vents sont les meilleurs éclaireurs sidhs. Leur vitesse est "
+"incroyable et leur façon d'utiliser la lance, à distance ou au corps à "
+"corps, est stupéfiante. \n"
+"\n"
+"Remarque : la lance des coureurs des vents est recouverte d'une sève "
+"empoisonnée d'arbustes, mais ils considéreraient lâche d'en faire de même "
+"pour leurs javelots."
 
 #. [unit_type]: id=Arendian Archer, race=arendian
 #: Imperial_Era/units/human-arendians/Archer.cfg:19
@@ -1315,11 +1455,20 @@ msgid ""
 " But in the end all of this is worth it, for any archers who do get accepted "
 "as regulars are treated well with good pay and food."
 msgstr ""
+"En tant de paix, les clans arendiens n'entretiennent que les meilleurs "
+"archers ; en entraîner de nouveaux n'est jamais prioritaire et, en cas de "
+"besoin, ceux qui rejoignent l'armée sont souvent des chasseurs sachant déjà "
+"se servir de leurs armes. Au mieux, Ils portent une légère armure, et ils "
+"utilisent uniquement un arc de chez eux, généralement un arc de chasse fait "
+"main ou un héritage familial. Ils sont censés chasser pour assurer leur "
+"subsistance et doivent se procurer eux-mêmes leurs flèches.\n"
+" Mais au final, ces contraintes en valent la peine : tout archer intégré "
+"dans les rangs de l'armée sera bien traité, bien nourri et bien payé."
 
 #. [unit_type]: id=Arendian Arrow Wind, race=arendian
 #: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:5
 msgid "Arrow Wind"
-msgstr ""
+msgstr "Vent-de-flèches"
 
 #. [unit_type]: id=Arendian Arrow Wind, race=arendian
 #: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:19
@@ -1335,11 +1484,21 @@ msgid ""
 "has hit the target, the sound of so many arrows in flight is likened to a "
 "rushing wind of death over the battlefield."
 msgstr ""
+"Les vents-de-flèches sont les meilleurs archers de tout Arendia, et sont "
+"capables de décocher des flèches très vite et très précisément. Leur nom "
+"vient d'un vieux conte populaire qui raconte comment le meilleur tireur du "
+"pays avait dû prouver son habileté en tirant des flèches tout autour de sa "
+"femme, sans la tuer. Quand on l'interrogeait après, elle comparait cela à "
+"une brise légère. Et c'est de là que les archers les plus habiles tirent "
+"leur nom, « vent-de-flèches » ; de nos jours, cela désigne le bruit que font "
+"leurs traits. Chacun d'entre eux peut trois fois avant que la cible ne soit "
+"atteint ; et c'est un vent de mort qui s'abat sur un champ de bataille quand "
+"on entend le son d'autant de projectiles."
 
 #. [unit_type]: id=Arendian Battlear, race=arendian
 #: Imperial_Era/units/human-arendians/Battlear.cfg:5
 msgid "Battlear"
-msgstr ""
+msgstr "Batailleur"
 
 #. [unit_type]: id=Arendian Battlear, race=arendian
 #: Imperial_Era/units/human-arendians/Battlear.cfg:19
@@ -1350,16 +1509,22 @@ msgid ""
 "armour, because their flails are so clumsy, and they are so stong by now "
 "anyway, that the reduced mobility and extra weight doesn't matter."
 msgstr ""
+"Le fléau est une arme bien plus efficace que la masse, mais est également "
+"plus lourd, plus encombrant et plus difficile à utiliser. Seuls les "
+"meilleurs et plus forts guerriers l'emploient ; ce sont aussi les seuls "
+"dotés d'une armure complète, car leurs puissants fléaux sont si déjà si "
+"encombrants que la perte de mobilité et le poids supplémentaires n'importent "
+"plus."
 
 #. [attack]: type=impact
 #: Imperial_Era/units/human-arendians/Battlear.cfg:24
 msgid "flail"
-msgstr ""
+msgstr "fléau"
 
 #. [unit_type]: id=Arendian Boltrider, race=arendian
 #: Imperial_Era/units/human-arendians/Boltrider.cfg:5
 msgid "Boltrider"
-msgstr ""
+msgstr "Foudre de guerre"
 
 #. [unit_type]: id=Arendian Boltrider, race=arendian
 #: Imperial_Era/units/human-arendians/Boltrider.cfg:17
@@ -1372,7 +1537,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Bowknight, race=arendian
 #: Imperial_Era/units/human-arendians/Bowknight.cfg:5
 msgid "Bowknight"
-msgstr ""
+msgstr "Chevalier archer"
 
 #. [unit_type]: id=Arendian Bowknight, race=arendian
 #: Imperial_Era/units/human-arendians/Bowknight.cfg:18
@@ -1382,11 +1547,15 @@ msgid ""
 "in these areas, and so the experienced bowriders, because they are most used "
 "to hunting down bandits, are placed in charge of law an order in the area."
 msgstr ""
+"Les chevaliers archers sont généralement des petits seigneurs de l'est de "
+"l'Arendie. Les plus expérimentés d'entre eux sont chargés de faire respecter "
+"la loi et l'ordre, et chassent les nombreux bandits réfugiés sur ces vastes "
+"étendues de terres désolées."
 
 #. [unit_type]: id=Arendian Bowmaster, race=arendian
 #: Imperial_Era/units/human-arendians/Bowmaster.cfg:5
 msgid "Bowmaster"
-msgstr ""
+msgstr "Maître archer"
 
 #. [unit_type]: id=Arendian Bowmaster, race=arendian
 #: Imperial_Era/units/human-arendians/Bowmaster.cfg:19
@@ -1399,11 +1568,19 @@ msgid ""
 "the bandits often joined with them and carried out systematic raids on any "
 "rich settlments."
 msgstr ""
+"Les maîtres archers sont les maîtres de l'Arendie orientale ; ce sont les "
+"seigneurs des chevaliers archers, eux-mêmes seigneurs des cavaliers "
+"archers ; cela implique qu'à tout moment, un maître archer peut disposer de "
+"milliers d'hommes. La Couronne ne le sait que trop bien depuis le Grand "
+"Soulèvement : quand les maîtres archers se sont rebellés à cause des impôts "
+"intolérablement trop élevés, les personnes chargés de chasser les criminels "
+"se sont joints à eux et ont systématiquement pillés tous les riches "
+"établissements qu'ils pouvaient trouver."
 
 #. [unit_type]: id=Arendian Bowrider, race=arendian
 #: Imperial_Era/units/human-arendians/Bowrider.cfg:5
 msgid "Bowrider"
-msgstr ""
+msgstr "Cavalier archer"
 
 #. [unit_type]: id=Arendian Bowrider, race=arendian
 #: Imperial_Era/units/human-arendians/Bowrider.cfg:18
@@ -1419,7 +1596,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Chief, race=arendian
 #: Imperial_Era/units/human-arendians/Chief.cfg:5
 msgid "Chief"
-msgstr ""
+msgstr "Chef"
 
 #. [unit_type]: id=Arendian Chief, race=arendian
 #: Imperial_Era/units/human-arendians/Chief.cfg:21
@@ -1434,7 +1611,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Druid, race=arendian
 #: Imperial_Era/units/human-arendians/Druid.cfg:5
 msgid "Druid"
-msgstr ""
+msgstr "Druide"
 
 #. [unit_type]: id=Arendian Druid, race=arendian
 #: Imperial_Era/units/human-arendians/Druid.cfg:21
@@ -1454,17 +1631,17 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Fay.cfg:47
 #: Imperial_Era/units/human-marauders/Galdra.cfg:24
 msgid "fist"
-msgstr ""
+msgstr "poing"
 
 #. [attack]: type=fire
 #: Imperial_Era/units/human-arendians/Druid.cfg:35
 msgid "fireball"
-msgstr ""
+msgstr "boule de feu"
 
 #. [unit_type]: id=Arendian Feather Bow, race=arendian
 #: Imperial_Era/units/human-arendians/Feather_Bow.cfg:5
 msgid "Feather Bow"
-msgstr ""
+msgstr "Arc-plume"
 
 #. [unit_type]: id=Arendian Feather Bow, race=arendian
 #: Imperial_Era/units/human-arendians/Feather_Bow.cfg:25
@@ -1480,7 +1657,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Hero, race=arendian
 #: Imperial_Era/units/human-arendians/Hero.cfg:5
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. [unit_type]: id=Arendian Hero, race=arendian
 #: Imperial_Era/units/human-arendians/Hero.cfg:23
@@ -1499,12 +1676,12 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Hero.cfg:37
 #: Imperial_Era/units/human-arendians/Wanderer.cfg:36
 msgid "throwing knives"
-msgstr ""
+msgstr "couteaux de lancer"
 
 #. [unit_type]: id=Arendian Horse Master, race=arendian
 #: Imperial_Era/units/human-arendians/Horse_Master.cfg:5
 msgid "Horse Master"
-msgstr ""
+msgstr "Maître des chevaux"
 
 #. [unit_type]: id=Arendian Horse Master, race=arendian
 #: Imperial_Era/units/human-arendians/Horse_Master.cfg:19
@@ -1524,7 +1701,7 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Horseman.cfg:5
 #: Imperial_Era/units/human-nemidians/Horseman.cfg:5
 msgid "Horseman"
-msgstr ""
+msgstr "Cavalier"
 
 #. [unit_type]: id=Arendian Horseman, race=arendian
 #: Imperial_Era/units/human-arendians/Horseman.cfg:18
@@ -1540,7 +1717,7 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Hunter.cfg:5
 #: Imperial_Era/units/human-marauders/Hunter.cfg:5
 msgid "Hunter"
-msgstr ""
+msgstr "Chasseur"
 
 #. [unit_type]: id=Arendian Hunter, race=arendian
 #: Imperial_Era/units/human-arendians/Hunter.cfg:19
@@ -1564,12 +1741,12 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Hunter.cfg:42
 #: Imperial_Era/units/human-arendians/Slayer.cfg:42
 msgid "fire arrow"
-msgstr ""
+msgstr "flèche enflammée"
 
 #. [unit_type]: id=Arendian Mounted Marksman, race=arendian
 #: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:5
 msgid "Mounted Marksman"
-msgstr ""
+msgstr "Tireur monté"
 
 #. [unit_type]: id=Arendian Mounted Marksman, race=arendian
 #: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:26
@@ -1583,7 +1760,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Mounted Warrior, race=arendian
 #: Imperial_Era/units/human-arendians/Mounted_Warrior.cfg:5
 msgid "Mounted Warrior"
-msgstr ""
+msgstr "Guerrier monté"
 
 #. [unit_type]: id=Arendian Mounted Warrior, race=arendian
 #: Imperial_Era/units/human-arendians/Mounted_Warrior.cfg:18
@@ -1601,7 +1778,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Shaman, race=arendian
 #: Imperial_Era/units/human-arendians/Shaman.cfg:5
 msgid "Shaman"
-msgstr ""
+msgstr "Chaman"
 
 #. [unit_type]: id=Arendian Shaman, race=arendian
 #: Imperial_Era/units/human-arendians/Shaman.cfg:21
@@ -1617,12 +1794,12 @@ msgstr ""
 #: Imperial_Era/units/human-arendians/Shaman.cfg:34
 #: Imperial_Era/units/human-arendians/Warlock.cfg:35
 msgid "fire ball"
-msgstr ""
+msgstr "boule de feu"
 
 #. [unit_type]: id=Arendian Slayer, race=arendian
 #: Imperial_Era/units/human-arendians/Slayer.cfg:5
 msgid "Slayer"
-msgstr ""
+msgstr "Tueur"
 
 #. [unit_type]: id=Arendian Slayer, race=arendian
 #: Imperial_Era/units/human-arendians/Slayer.cfg:20
@@ -1648,7 +1825,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Swordsman, race=arendian
 #: Imperial_Era/units/human-arendians/Swordsman.cfg:5
 msgid "Swordsman"
-msgstr ""
+msgstr "Homme d'épée"
 
 #. [unit_type]: id=Arendian Swordsman, race=arendian
 #: Imperial_Era/units/human-arendians/Swordsman.cfg:18
@@ -1658,6 +1835,11 @@ msgid ""
 "from a clan's guards or enforcers, but mostly this is the job given to any "
 "man strong enough to fight who doesn't own a horse."
 msgstr ""
+"Les arendiens utilisent les hommes d'épée quand le terrain est lourd et que "
+"utiliser la cavalerie s'avère difficile. Ils sont peu entraînés et sont "
+"parfois issus des soldats des clans, mais la plupart d'entre eux ne sont que "
+"des hommes suffisamment forts pour combattre, mais ne possédant pas de "
+"cheval."
 
 #. [unit_type]: id=Arendian Wanderer, race=arendian
 #: Imperial_Era/units/human-arendians/Wanderer.cfg:22
@@ -1681,7 +1863,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Warlock, race=arendian
 #: Imperial_Era/units/human-arendians/Warlock.cfg:5
 msgid "Warlock"
-msgstr ""
+msgstr "Sorcier"
 
 #. [unit_type]: id=Arendian Warlock, race=arendian
 #: Imperial_Era/units/human-arendians/Warlock.cfg:22
@@ -1696,7 +1878,7 @@ msgstr ""
 #. [unit_type]: id=Arendian Warlord, race=arendian
 #: Imperial_Era/units/human-arendians/Warlord.cfg:5
 msgid "Warlord"
-msgstr ""
+msgstr "Seigneur de guerre"
 
 #. [unit_type]: id=Arendian Warlord, race=arendian
 #: Imperial_Era/units/human-arendians/Warlord.cfg:22
@@ -1726,12 +1908,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Imperial_Era/units/human-arendians/Warrior.cfg:23
 msgid "mace"
-msgstr ""
+msgstr "masse"
 
 #. [unit_type]: id=Lavinian Aquilifer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Aquilifer.cfg:4
 msgid "Aquilifer"
-msgstr ""
+msgstr "Aqualifer"
 
 #. [unit_type]: id=Lavinian Aquilifer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Aquilifer.cfg:19
@@ -1745,6 +1927,14 @@ msgid ""
 "and an object of honor for all of the Legionnaires, and it will give them "
 "strength in the battle even in the dead of night."
 msgstr ""
+"Avec sa coiffe en peau de lion, l'aigle d'or au sommet de son étendard et "
+"les couleurs sang-et-or de la Légion sur son armure, l'aquilifer est un "
+"véritable symbole de l'Empire. Il n'y en a qu'un seul par légion, et seul "
+"l'homme le plus téméraire, courageux et sage peut tenir ce poste. En portant "
+"l'Aigle de la Légion, il devient une cible de choix pour l'ennemi, et doit "
+"souvent se battre et mourir pour le protéger. L'Aigle est un objet "
+"d'inspiration et d'honneur pour tous les légionnaires, et leur donnera la "
+"force pour la bataille, même au fin fond de la nuit."
 
 #. [attack]: type=blade
 #: Imperial_Era/units/human-lavinians/Rorarius.cfg:23
@@ -1762,12 +1952,12 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Aquilifer.cfg:25
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:24
 msgid "gladius"
-msgstr ""
+msgstr "gladius"
 
 #. [unit_type]: id=Lavinian Archuballistarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Archuballistarius.cfg:4
 msgid "Archuballistarius"
-msgstr ""
+msgstr "Archibaliste"
 
 #. [unit_type]: id=Lavinian Archuballistarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Archuballistarius.cfg:18
@@ -1783,12 +1973,12 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Ballista.cfg:29
 #: Imperial_Era/units/human-lavinians/Archuballistarius.cfg:30
 msgid "ballista"
-msgstr ""
+msgstr "baliste"
 
 #. [unit_type]: id=Lavinian Auxiliary, race=lavinian
 #: Imperial_Era/units/human-lavinians/Auxiliary.cfg:4
 msgid "Auxiliary"
-msgstr ""
+msgstr "Auxiliaire"
 
 #. [unit_type]: id=Lavinian Auxiliary, race=lavinian
 #: Imperial_Era/units/human-lavinians/Auxiliary.cfg:18
@@ -1804,7 +1994,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Ballista, race=lavinian
 #: Imperial_Era/units/human-lavinians/Ballista.cfg:4
 msgid "Field Ballista"
-msgstr ""
+msgstr "Baliste de campagne"
 
 #. [unit_type]: id=Lavinian Ballista, race=lavinian
 #: Imperial_Era/units/human-lavinians/Ballista.cfg:17
@@ -1815,11 +2005,16 @@ msgid ""
 "although not exactly fast, and the ballista's controller is able to defend "
 "himself with a gladius if the ballista is attacked."
 msgstr ""
+"Les balistes de campagne lavinienne servent d'abord à attaquer les cités qui "
+"s'opposent à l'expansion de la Légion. Cependant, elles sont également "
+"mortelles contre les ennemis sur le champ de bataille. Elles sont assez "
+"petites pour pouvoir être déplacée, lentement, et leurs servants peuvent se "
+"défendre avec leur gladius en cas d'attaque."
 
 #. [unit_type]: id=Lavinian Bowman, race=lavinian
 #: Imperial_Era/units/human-lavinians/Bowman.cfg:5
 msgid "Bowman"
-msgstr ""
+msgstr "Archer"
 
 #. [unit_type]: id=Lavinian Bowman, race=lavinian
 #: Imperial_Era/units/human-lavinians/Bowman.cfg:20
@@ -1838,7 +2033,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Centurion, race=lavinian
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:5
 msgid "Centurion"
-msgstr ""
+msgstr "Centurion"
 
 #. [unit_type]: id=Lavinian Centurion, race=lavinian
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:19
@@ -1849,6 +2044,11 @@ msgid ""
 "gladius and pila. He is not as formidable a fighter as a Praetorian Guard, "
 "but his knowledge and leadership more than make up for this."
 msgstr ""
+"Un centurion, commandant une centurie entière, est un tacticien et un "
+"stratège. Il a une grande croix rouge sur son casque, et contrairement aux "
+"autres légionnaires, porte une grande lance en plus de son gladius et de son "
+"pilum. Il n'est pas un combattant aussi formidable que sa garde prétorienne, "
+"mais son savoir et son art du commandement compensent largement."
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:47
@@ -1857,12 +2057,12 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Legionnaire.cfg:41
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:45
 msgid "pilum"
-msgstr ""
+msgstr "pilum"
 
 #. [unit_type]: id=Lavinian Decurion, race=lavinian
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:4
 msgid "Decurion"
-msgstr ""
+msgstr "Décurion"
 
 #. [unit_type]: id=Lavinian Decurion, race=lavinian
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:17
@@ -1878,7 +2078,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Funditor, race=lavinian
 #: Imperial_Era/units/human-lavinians/Funditor.cfg:5
 msgid "Funditor"
-msgstr ""
+msgstr "Funditor"
 
 #. [unit_type]: id=Lavinian Funditor, race=lavinian
 #: Imperial_Era/units/human-lavinians/Funditor.cfg:19
@@ -1896,12 +2096,12 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Slinger.cfg:31
 #: Imperial_Era/units/human-lavinians/Funditor.cfg:32
 msgid "sling"
-msgstr ""
+msgstr "fronde"
 
 #. [unit_type]: id=Lavinian Legionnaire, race=lavinian
 #: Imperial_Era/units/human-lavinians/Legionnaire.cfg:4
 msgid "Legionnaire"
-msgstr ""
+msgstr "Légionnaire"
 
 #. [unit_type]: id=Lavinian Legionnaire, race=lavinian
 #: Imperial_Era/units/human-lavinians/Legionnaire.cfg:17
@@ -1920,12 +2120,12 @@ msgstr ""
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:33
 #: Imperial_Era/units/human-lavinians/Legionnaire.cfg:30
 msgid "shield"
-msgstr ""
+msgstr "bouclier"
 
 #. [unit_type]: id=Lavinian Light Infantryman, race=lavinian
 #: Imperial_Era/units/human-lavinians/Light_Infantry.cfg:5
 msgid "Light Infantryman"
-msgstr ""
+msgstr "Fantassin léger"
 
 #. [unit_type]: id=Lavinian Light Infantryman, race=lavinian
 #: Imperial_Era/units/human-lavinians/Light_Infantry.cfg:19
@@ -1942,7 +2142,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Praetorian Guard, race=lavinian
 #: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:4
 msgid "Praetorian Guard"
-msgstr ""
+msgstr "Garde prétorien"
 
 #. [unit_type]: id=Lavinian Praetorian Guard, race=lavinian
 #: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:18
@@ -1958,7 +2158,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Propugnator, race=lavinian
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:4
 msgid "Propugnator"
-msgstr ""
+msgstr "Propugnator"
 
 #. [unit_type]: id=Lavinian Propugnator, race=lavinian
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:17
@@ -1974,7 +2174,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Rorarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Rorarius.cfg:5
 msgid "Rorarius"
-msgstr ""
+msgstr "Rorarius"
 
 #. [unit_type]: id=Lavinian Rorarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Rorarius.cfg:19
@@ -1992,7 +2192,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Saggitarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:5
 msgid "Saggitarius"
-msgstr ""
+msgstr "Sagittaire"
 
 #. [unit_type]: id=Lavinian Saggitarius, race=lavinian
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:18
@@ -2007,7 +2207,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Siege Archer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:5
 msgid "Siege Archer"
-msgstr ""
+msgstr "Archer de siège"
 
 #. [unit_type]: id=Lavinian Siege Archer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:18
@@ -2027,7 +2227,7 @@ msgstr ""
 #. [unit_type]: id=Lavinian Signifer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Signifer.cfg:4
 msgid "Signifer"
-msgstr ""
+msgstr "Signifer"
 
 #. [unit_type]: id=Lavinian Signifer, race=lavinian
 #: Imperial_Era/units/human-lavinians/Signifer.cfg:18
@@ -2038,11 +2238,17 @@ msgid ""
 "His standard has all of the awards his Century has recieved lined up, and a "
 "large hand at the top, serving as a point of reference for all the fighters."
 msgstr ""
+"Porte-étendard de sa centurie, le signifier a une position des plus "
+"enviables. Il se jette rarement personnellement dans la mêlée, mais inspire "
+"ses camarades légionnaires et les aide à se rallier en cas de retraite. Son "
+"étendard porte toutes les décorations que sa centurie a gagnées, ainsi "
+"qu'une grande main en son sommet, pour servir de référence à tous les "
+"guerriers."
 
 #. [unit_type]: id=Lavinian Skirmisher, race=lavinian
 #: Imperial_Era/units/human-lavinians/Skirmisher.cfg:5
 msgid "Skirmisher"
-msgstr ""
+msgstr "Tirailleur"
 
 #. [unit_type]: id=Lavinian Skirmisher, race=lavinian
 #: Imperial_Era/units/human-lavinians/Skirmisher.cfg:23
@@ -2054,11 +2260,16 @@ msgid ""
 "providing a skirmishing screen for the Legionnaires, and to help funnel "
 "cavalry and archers towards their more heavily armored allies."
 msgstr ""
+"Pour pouvoir se battre au corps à corps comme à distance, le tirailleur a "
+"échangé son arme d'origine, l'épée, contre une lance. Il arrive facilement à "
+"se mouvoir rapidement entre les lignes ennemies. Son rôle principal est de "
+"former un écran devant les légionnaires, et de canaliser la cavalerie et les "
+"archers ennemis vers ses alliés plus lourdement protégés."
 
 #. [unit_type]: id=Lavinian Slinger, race=lavinian
 #: Imperial_Era/units/human-lavinians/Slinger.cfg:4
 msgid "Slinger"
-msgstr ""
+msgstr "Frondeur"
 
 #. [unit_type]: id=Lavinian Slinger, race=lavinian
 #: Imperial_Era/units/human-lavinians/Slinger.cfg:18
@@ -2069,11 +2280,17 @@ msgid ""
 "all that dangerous to a fully equipped Legionnaire, it is often enough to "
 "take down the unarmored barbarians the Legion is usually fighting."
 msgstr ""
+"Bien que l'arc soit souvent bien plus dangereux que la fronde, celle-ci est "
+"utilisée par de nombreux auxiliaires laviniens à cause de sa grande cadence "
+"de tir et l'abondance des munitions. Bien qu'une pierre, même projetée "
+"vivement, ne soit pas trop dangereuse pour un légionnaire équipé de pied en "
+"cap, elle suffit souvent à abattre les barbares que la Légion affronte "
+"habituellement."
 
 #. [unit_type]: id=Lavinian Velite, race=lavinian
 #: Imperial_Era/units/human-lavinians/Velite.cfg:5
 msgid "Velite"
-msgstr ""
+msgstr "Vélite"
 
 #. [unit_type]: id=Lavinian Velite, race=lavinian
 #: Imperial_Era/units/human-lavinians/Velite.cfg:26
@@ -2086,11 +2303,18 @@ msgid ""
 "runs around the battlefield, right past his opponents, until he finds "
 "someone he can defeat. Then he attacks."
 msgstr ""
+"Souvent membre d'une tribu barbare alliée à l'Empire, le vélite porte la "
+"coiffe en peau de loup des gens du nord, s'habille de vert et de brun, et se "
+"bat avec une lance légère et une petite targe en bois. N'ayant pas été "
+"entraîné au combat organisé mais davantage dans une forme de \"tactique\" "
+"que les laviniens voient comme primitive et chaotique, le vélite fonce "
+"autour du champ de bataille, contournant ses ennemis jusqu'à trouver "
+"quelqu'un à abattre, puis passe à l'attaque."
 
 #. [unit_type]: id=Marauder Axeman, race=marauder
 #: Imperial_Era/units/human-marauders/Axeman.cfg:5
 msgid "Axeman"
-msgstr ""
+msgstr "Bûcheron"
 
 #. [unit_type]: id=Marauder Axeman, race=marauder
 #: Imperial_Era/units/human-marauders/Axeman.cfg:18
@@ -2102,11 +2326,17 @@ msgid ""
 "to use a bow, and is often seen giving Warriors some much needed ranged "
 "suppport."
 msgstr ""
+"Les bûcherons veillent à ce que les villages des maraudeurs aient toujours "
+"une ample réserve de bois durant les froids hivers du nord. Ils excellent "
+"également dans la construction des palissades qui protègent les campements. "
+"Bien qu'ils ne soient pas d'aussi furieux combattants que les guerriers, ils "
+"savent tirer à l'arc, et on les a maintes fois vus leur fournir un appui à "
+"distance bienvenu."
 
 #. [unit_type]: id=Marauder Boatsman, race=marauder
 #: Imperial_Era/units/human-marauders/Boatsman.cfg:5
 msgid "Boatsman"
-msgstr ""
+msgstr "Batelier"
 
 #. [unit_type]: id=Marauder Boatsman, race=marauder
 #: Imperial_Era/units/human-marauders/Boatsman.cfg:17
@@ -2120,7 +2350,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Crusher, race=marauder
 #: Imperial_Era/units/human-marauders/Crusher.cfg:5
 msgid "Crusher"
-msgstr ""
+msgstr "Écraseur"
 
 #. [unit_type]: id=Marauder Crusher, race=marauder
 #: Imperial_Era/units/human-marauders/Crusher.cfg:18
@@ -2135,12 +2365,12 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Crusher.cfg:40
 #: Imperial_Era/units/human-marauders/Mauler.cfg:41
 msgid "maul"
-msgstr ""
+msgstr "cognée"
 
 #. [unit_type]: id=Marauder Fay, race=marauder
 #: Imperial_Era/units/human-marauders/Fay.cfg:5
 msgid "female^Fay"
-msgstr ""
+msgstr "Fay"
 
 #. [unit_type]: id=Marauder Fay, race=marauder
 #: Imperial_Era/units/human-marauders/Fay.cfg:19
@@ -2157,12 +2387,12 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Fay.cfg:59
 #: Imperial_Era/units/human-marauders/Galdra.cfg:36
 msgid "cold blast"
-msgstr ""
+msgstr "onde glaciale"
 
 #. [unit_type]: id=Marauder Galdra, race=marauder
 #: Imperial_Era/units/human-marauders/Galdra.cfg:5
 msgid "female^Galdra"
-msgstr ""
+msgstr "Galdra"
 
 #. [unit_type]: id=Marauder Galdra, race=marauder
 #: Imperial_Era/units/human-marauders/Galdra.cfg:20
@@ -2213,7 +2443,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Mauler, race=marauder
 #: Imperial_Era/units/human-marauders/Mauler.cfg:5
 msgid "Mauler"
-msgstr ""
+msgstr "Cogneur"
 
 #. [unit_type]: id=Marauder Mauler, race=marauder
 #: Imperial_Era/units/human-marauders/Mauler.cfg:19
@@ -2229,7 +2459,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Mounted Axeman, race=marauder
 #: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:5
 msgid "Mounted Axeman"
-msgstr ""
+msgstr "Bûcheron monté"
 
 #. [unit_type]: id=Marauder Mounted Axeman, race=marauder
 #: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:19
@@ -2247,12 +2477,12 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:24
 #: Imperial_Era/units/human-marauders/Mounted_Axeman.cfg:33
 msgid "battleaxe"
-msgstr ""
+msgstr "hache de bataille"
 
 #. [unit_type]: id=Marauder Pillager, race=marauder
 #: Imperial_Era/units/human-marauders/Pillager.cfg:5
 msgid "Pillager"
-msgstr ""
+msgstr "Pilleur"
 
 #. [unit_type]: id=Marauder Pillager, race=marauder
 #: Imperial_Era/units/human-marauders/Pillager.cfg:18
@@ -2268,12 +2498,12 @@ msgstr ""
 #: Imperial_Era/units/human-marauders/Warrior.cfg:59
 #: Imperial_Era/units/human-marauders/Scorcher.cfg:60
 msgid "torch"
-msgstr ""
+msgstr "torche"
 
 #. [unit_type]: id=Marauder Raider, race=marauder
 #: Imperial_Era/units/human-marauders/Raider.cfg:5
 msgid "Raider"
-msgstr ""
+msgstr "Pillard"
 
 #. [unit_type]: id=Marauder Raider, race=marauder
 #: Imperial_Era/units/human-marauders/Raider.cfg:19
@@ -2289,12 +2519,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Imperial_Era/units/human-marauders/Raider.cfg:61
 msgid "net"
-msgstr ""
+msgstr "filet"
 
 #. [unit_type]: id=Marauder Sailor, race=marauder
 #: Imperial_Era/units/human-marauders/Sailor.cfg:5
 msgid "Sailor"
-msgstr ""
+msgstr "Marin"
 
 #. [unit_type]: id=Marauder Sailor, race=marauder
 #: Imperial_Era/units/human-marauders/Sailor.cfg:18
@@ -2309,7 +2539,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Scorcher, race=marauder
 #: Imperial_Era/units/human-marauders/Scorcher.cfg:5
 msgid "Scorcher"
-msgstr ""
+msgstr "Flambeur"
 
 #. [unit_type]: id=Marauder Scorcher, race=marauder
 #: Imperial_Era/units/human-marauders/Scorcher.cfg:19
@@ -2326,7 +2556,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Scout, race=marauder
 #: Imperial_Era/units/human-marauders/Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Eclaireur"
 
 #. [unit_type]: id=Marauder Scout, race=marauder
 #: Imperial_Era/units/human-marauders/Scout.cfg:18
@@ -2341,7 +2571,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Sea Wolf, race=marauder
 #: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:4
 msgid "Sea Wolf"
-msgstr ""
+msgstr "Loup de mer"
 
 #. [unit_type]: id=Marauder Sea Wolf, race=marauder
 #: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:18
@@ -2352,11 +2582,15 @@ msgid ""
 "out onto the land, slay their victims, take their plunder, and retreat as "
 "quickly as they came."
 msgstr ""
+"On raconte, dans les villages d'Arendia, d'atroces raids de maraudeurs. Par "
+"une nuit noire, des bateaux accostent doucement pour répandre le feu et la "
+"mort. Les redoutables loups de mer, venus sur leurs navires couleur corbeau, "
+"débarquent, tuent, pillent et font retraite aussi vite qu'ils sont venus."
 
 #. [unit_type]: id=Marauder Seeress, race=marauder
 #: Imperial_Era/units/human-marauders/Seeress.cfg:5
 msgid "female^Seeress"
-msgstr ""
+msgstr "Voyante"
 
 #. [unit_type]: id=Marauder Seeress, race=marauder
 #: Imperial_Era/units/human-marauders/Seeress.cfg:19
@@ -2370,7 +2604,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Shieldmaiden, race=marauder
 #: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:5
 msgid "female^Shieldmaiden"
-msgstr ""
+msgstr "Vierge au bouclier"
 
 #. [unit_type]: id=Marauder Shieldmaiden, race=marauder
 #: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:19
@@ -2391,7 +2625,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Valkyrie, race=marauder
 #: Imperial_Era/units/human-marauders/Valkyrie.cfg:5
 msgid "female^Valkyrie"
-msgstr ""
+msgstr "Valkyrie"
 
 #. [unit_type]: id=Marauder Valkyrie, race=marauder
 #: Imperial_Era/units/human-marauders/Valkyrie.cfg:20
@@ -2422,7 +2656,7 @@ msgstr ""
 #. [unit_type]: id=Marauder Woodsman, race=marauder
 #: Imperial_Era/units/human-marauders/Woodsman.cfg:5
 msgid "Woodsman"
-msgstr ""
+msgstr "Homme des bois"
 
 #. [unit_type]: id=Marauder Woodsman, race=marauder
 #: Imperial_Era/units/human-marauders/Woodsman.cfg:19
@@ -2437,7 +2671,7 @@ msgstr ""
 #. [unit_type]: id=Nemidian Champion, race=nemidian
 #: Imperial_Era/units/human-nemidians/Champion.cfg:5
 msgid "Champion"
-msgstr ""
+msgstr "Champion"
 
 #. [unit_type]: id=Nemidian Champion, race=nemidian
 #: Imperial_Era/units/human-nemidians/Champion.cfg:33
@@ -2455,12 +2689,12 @@ msgstr ""
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:48
 #: Imperial_Era/units/human-nemidians/Champion.cfg:49
 msgid "scimitar"
-msgstr ""
+msgstr "cimeterre"
 
 #. [unit_type]: id=Nemidian Claimant, race=nemidian
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:5
 msgid "Claimant"
-msgstr ""
+msgstr "Prétendant"
 
 #. [unit_type]: id=Nemidian Claimant, race=nemidian
 #: Imperial_Era/units/human-nemidians/Claimant.cfg:32
@@ -2475,7 +2709,7 @@ msgstr ""
 #. [unit_type]: id=Nemidian Hippopotamus, race=nemidian
 #: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:5
 msgid "Hippopotamus"
-msgstr ""
+msgstr "Hippopotame de guerre"
 
 #. [unit_type]: id=Nemidian Hippopotamus, race=nemidian
 #: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:19
@@ -2491,7 +2725,7 @@ msgstr ""
 #: Imperial_Era/units/human-nemidians/River_Horse.cfg:23
 #: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:24
 msgid "head-butt"
-msgstr ""
+msgstr "coup de tête"
 
 #. [unit_type]: id=Nemidian Horseman, race=nemidian
 #: Imperial_Era/units/human-nemidians/Horseman.cfg:32
@@ -2503,11 +2737,17 @@ msgid ""
 "only weapon is his spear, but his skill with it allows him to use it as a "
 "projectile, as well as a melee weapon."
 msgstr ""
+"Nemidia est un pays indépendant, mais possède une solide alliance avec "
+"l'empire lavinien et lui envoie souvent des guerriers pour lui prêter main-"
+"forte. La région est renommée pour ses habiles cavaliers, que les laviniens "
+"utilisent donc à la place de leur cavalerie. Cette unité n'a qu'une lance "
+"pour toute arme, mais son habileté lui permet de l'utiliser à distance ou au "
+"corps à corps."
 
 #. [unit_type]: id=Nemidian River Calf, race=nemidian
 #: Imperial_Era/units/human-nemidians/River_Calf.cfg:5
 msgid "River Calf"
-msgstr ""
+msgstr "Jeune hippopotame"
 
 #. [unit_type]: id=Nemidian River Calf, race=nemidian
 #: Imperial_Era/units/human-nemidians/River_Calf.cfg:18
@@ -2524,7 +2764,7 @@ msgstr ""
 #. [unit_type]: id=Nemidian River Horse, race=nemidian
 #: Imperial_Era/units/human-nemidians/River_Horse.cfg:5
 msgid "River Horse"
-msgstr ""
+msgstr "Hippopotame"
 
 #. [unit_type]: id=Nemidian River Horse, race=nemidian
 #: Imperial_Era/units/human-nemidians/River_Horse.cfg:18
@@ -2539,7 +2779,7 @@ msgstr ""
 #. [unit_type]: id=Sidhe Ancestor, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Ancestor.cfg:5
 msgid "Ancestor"
-msgstr ""
+msgstr "Ancêtre"
 
 #. [unit_type]: id=Sidhe Ancestor, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Ancestor.cfg:24
@@ -2555,18 +2795,18 @@ msgstr ""
 #: Imperial_Era/units/spirit-elves/Sidhe_Warrior_Spirit.cfg:26
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:29
 msgid "ancient mace"
-msgstr ""
+msgstr "masse ancestrale"
 
 #. [attack]: type=cold
 #: Imperial_Era/units/spirit-elves/Sidhe_Ancestor.cfg:38
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:38
 msgid "requiem"
-msgstr ""
+msgstr "requiem"
 
 #. [unit_type]: id=Sidhe Forefather, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:5
 msgid "Forefather"
-msgstr ""
+msgstr "Patriarche"
 
 #. [unit_type]: id=Sidhe Forefather, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Forefather.cfg:24
@@ -2575,11 +2815,14 @@ msgid ""
 "death chant, echoing through the trees, know that their silver maces are "
 "also near."
 msgstr ""
+"Les plus formidables guerriers sidhs sont loin d'être enterrés. Sachez que "
+"leurs masses en argent seront toutes proches quand vous entendrez leur chant "
+"funèbre résonner dans le feuillage des arbres."
 
 #. [unit_type]: id=Sidhe Warrior Spirit, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Warrior_Spirit.cfg:5
 msgid "Warrior Spirit"
-msgstr ""
+msgstr "Esprit guerrier"
 
 #. [unit_type]: id=Sidhe Warrior Spirit, race=undead
 #: Imperial_Era/units/spirit-elves/Sidhe_Warrior_Spirit.cfg:21
@@ -2588,3 +2831,7 @@ msgid ""
 "the forests of their former homes, seeking to perform the feats of arms they "
 "did in the past, and death is no obstacle..."
 msgstr ""
+"Les grands guerriers sidhs des temps anciens ne sont jamais tout à fait "
+"enterrés. Il errent dans les forêts proches de leur village natal, cherchant "
+"à rééditer les prouesses martiales réalisées par le passé, et la mort ne "
+"pourra pas les en empêcher..."
