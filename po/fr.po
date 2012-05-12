@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:21+0100\n"
+"POT-Creation-Date: 2012-05-11 23:28-0400\n"
 "PO-Revision-Date: 2012-01-19 12:49+0100\n"
 "Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
 "Language-Team: none\n"
@@ -62,44 +62,44 @@ msgid ""
 "attacks."
 msgstr ""
 
-#. [multiplayer_side]: id=Arendians, type=Arendian Arrow Wind
 #. [multiplayer_side]: id=Arendians, type=Arendian Archer
+#. [multiplayer_side]: id=Arendians, type=Arendian Arrow Wind
 #. [multiplayer_side]: id=Arendians, type=Arendian Feather Bow
+#: Imperial_Era/factions/imper-arendians.cfg:5
 #: Imperial_Era/factions/imper_champs-arendians.cfg:5
 #: Imperial_Era/factions/imper_rpg-arendians.cfg:5
-#: Imperial_Era/factions/imper-arendians.cfg:5
 msgid "Arendians"
 msgstr "Arendiens"
 
-#. [multiplayer_side]: id=Cavernei, type=Cavernei Watcher
-#. [multiplayer_side]: id=Cavernei, type=Cavernei Steelclad
 #. [multiplayer_side]: id=Cavernei, type=Cavernei Lord
-#: Imperial_Era/factions/imper_rpg-cavernei.cfg:5
+#. [multiplayer_side]: id=Cavernei, type=Cavernei Steelclad
+#. [multiplayer_side]: id=Cavernei, type=Cavernei Watcher
 #: Imperial_Era/factions/imper-cavernei.cfg:5
 #: Imperial_Era/factions/imper_champs-cavernei.cfg:5
+#: Imperial_Era/factions/imper_rpg-cavernei.cfg:5
 msgid "Cavernei"
 msgstr "Cavernei"
 
-#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Roamer
-#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Dancer
 #. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Bladesman
+#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Dancer
+#. [multiplayer_side]: id=Issaelfr, type=Frost Elf Ice Roamer
 #: Imperial_Era/factions/imper-issaelfr.cfg:5
 #: Imperial_Era/factions/imper_champs-issaelfr.cfg:5
 #: Imperial_Era/factions/imper_rpg-issaelfr.cfg:5
 msgid "Issaelfr"
 msgstr ""
 
-#. [multiplayer_side]: id=The Lavinian Legion, type=Lavinian Centurion
 #. [multiplayer_side]: id=Lavinian Legion, type=Lavinian Decurion
 #. [multiplayer_side]: id=Lavinian Legion, type=Lavinian Legionnaire
-#: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
+#. [multiplayer_side]: id=The Lavinian Legion, type=Lavinian Centurion
 #: Imperial_Era/factions/imper-lavinian_legion.cfg:5
+#: Imperial_Era/factions/imper_champs-lavinian_legion.cfg:5
 #: Imperial_Era/factions/imper_rpg-lavinian_legion.cfg:5
 msgid "Lavinian Legion"
 msgstr "Légion lavinienne"
 
-#. [multiplayer_side]: id=Marauders, type=Marauder Pillager
 #. [multiplayer_side]: id=Marauders, type=Marauder Lord
+#. [multiplayer_side]: id=Marauders, type=Marauder Pillager
 #. [multiplayer_side]: id=Marauders, type=Marauder Warrior
 #: Imperial_Era/factions/imper-marauders.cfg:5
 #: Imperial_Era/factions/imper_champs-marauders.cfg:5
@@ -114,12 +114,12 @@ msgstr "Maraudeurs"
 msgid "Orcei Gladiatores"
 msgstr ""
 
+#. [multiplayer_side]: id=Sidhe, type=Wild Elf Bladespinner
 #. [multiplayer_side]: id=Sidhe, type=Wild Elf Thunderblade
 #. [multiplayer_side]: id=Sidhe, type=Wild Elf Wanderer
-#. [multiplayer_side]: id=Sidhe, type=Wild Elf Bladespinner
+#: Imperial_Era/factions/imper-sidhe.cfg:5
 #: Imperial_Era/factions/imper_champs-sidhe.cfg:5
 #: Imperial_Era/factions/imper_rpg-sidhe.cfg:5
-#: Imperial_Era/factions/imper-sidhe.cfg:5
 msgid "Sidhe"
 msgstr ""
 
@@ -156,8 +156,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/animals/Falcon_Lord.cfg:25
 #: Imperial_Era/units/animals/Falcon.cfg:24
+#: Imperial_Era/units/animals/Falcon_Lord.cfg:25
 msgid "dive-bomb"
 msgstr ""
 
@@ -189,9 +189,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Imperial_Era/units/animals/Seal_Fleet.cfg:23
 #: Imperial_Era/units/animals/Seal.cfg:23
 #: Imperial_Era/units/animals/Seal_Elder.cfg:23
+#: Imperial_Era/units/animals/Seal_Fleet.cfg:23
 msgid "bite"
 msgstr "morsure"
 
@@ -255,14 +255,14 @@ msgstr ""
 "connues et redoutées pour leurs armes qui ont déjà pulvérisé en un seul coup "
 "les plus puissants des guerriers. "
 
-#. [attack]: type=pierce
 #. [attack]: type=blade
-#: Imperial_Era/units/elves-frost/Bladesman.cfg:31
-#: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:26
-#: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:27
+#. [attack]: type=pierce
 #: Imperial_Era/units/dwarves-cavernei/Dragonguard.cfg:25
-#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:25
 #: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:41
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:25
+#: Imperial_Era/units/elves-frost/Bladesman.cfg:31
+#: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:27
+#: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:26
 msgid "dagger"
 msgstr "dague"
 
@@ -289,8 +289,8 @@ msgstr ""
 "peuvent surgir de nulle part à tout moment."
 
 #. [attack]: type=blade
-#: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:28
 #: Imperial_Era/units/dwarves-cavernei/Eagle_Master.cfg:28
+#: Imperial_Era/units/dwarves-cavernei/Eagle_Rider.cfg:28
 msgid "claws"
 msgstr "griffes"
 
@@ -329,24 +329,24 @@ msgstr ""
 "compensée par leur force et leur endurance."
 
 #. [attack]: type=blade
-#: Imperial_Era/units/human-marauders/Sailor.cfg:22
-#: Imperial_Era/units/human-marauders/Raider.cfg:52
-#: Imperial_Era/units/human-marauders/Hunter.cfg:24
+#: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:28
+#: Imperial_Era/units/human-marauders/Axeman.cfg:46
 #: Imperial_Era/units/human-marauders/Boatsman.cfg:21
+#: Imperial_Era/units/human-marauders/Hunter.cfg:24
+#: Imperial_Era/units/human-marauders/Raider.cfg:52
+#: Imperial_Era/units/human-marauders/Sailor.cfg:22
+#: Imperial_Era/units/human-marauders/Scout.cfg:40
 #: Imperial_Era/units/human-marauders/Sea_Wolf.cfg:22
 #: Imperial_Era/units/human-marauders/Woodsman.cfg:25
-#: Imperial_Era/units/human-marauders/Scout.cfg:40
-#: Imperial_Era/units/human-marauders/Axeman.cfg:46
-#: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:28
 msgid "axe"
 msgstr "hache"
 
 #. [attack]: type=impact
-#: Imperial_Era/units/dwarves-cavernei/Lord.cfg:39
-#: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:38
 #: Imperial_Era/units/dwarves-cavernei/Fighter.cfg:36
 #: Imperial_Era/units/dwarves-cavernei/Journeyman.cfg:23
+#: Imperial_Era/units/dwarves-cavernei/Lord.cfg:39
 #: Imperial_Era/units/dwarves-cavernei/Runemaster.cfg:24
+#: Imperial_Era/units/dwarves-cavernei/Steelclad.cfg:38
 msgid "hammer"
 msgstr "marteau"
 
@@ -372,38 +372,38 @@ msgstr ""
 "Remarque : "
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:46
-#: Imperial_Era/units/human-marauders/Valkyrie.cfg:24
-#: Imperial_Era/units/human-nemidians/Horseman.cfg:37
-#: Imperial_Era/units/human-nemidians/Horseman.cfg:48
-#: Imperial_Era/units/human-nemidians/River_Horse.cfg:31
-#: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:32
-#: Imperial_Era/units/human-nemidians/Champion.cfg:38
-#: Imperial_Era/units/human-nemidians/Champion.cfg:57
-#: Imperial_Era/units/human-nemidians/Claimant.cfg:37
-#: Imperial_Era/units/human-nemidians/Claimant.cfg:56
-#: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:41
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:33
+#: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:41
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:36
-#: Imperial_Era/units/human-lavinians/Centurion.cfg:35
-#: Imperial_Era/units/human-lavinians/Skirmisher.cfg:30
-#: Imperial_Era/units/human-lavinians/Decurion.cfg:33
-#: Imperial_Era/units/human-lavinians/Velite.cfg:33
 #: Imperial_Era/units/elves-wild/Tracker.cfg:33
 #: Imperial_Era/units/elves-wild/Tracker.cfg:45
 #: Imperial_Era/units/elves-wild/Wanderer.cfg:31
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:34
 #: Imperial_Era/units/elves-wild/Windrunner.cfg:46
+#: Imperial_Era/units/human-lavinians/Centurion.cfg:35
+#: Imperial_Era/units/human-lavinians/Decurion.cfg:33
+#: Imperial_Era/units/human-lavinians/Skirmisher.cfg:30
+#: Imperial_Era/units/human-lavinians/Velite.cfg:33
+#: Imperial_Era/units/human-marauders/Shieldmaiden.cfg:46
+#: Imperial_Era/units/human-marauders/Valkyrie.cfg:24
+#: Imperial_Era/units/human-nemidians/Champion.cfg:38
+#: Imperial_Era/units/human-nemidians/Champion.cfg:57
+#: Imperial_Era/units/human-nemidians/Claimant.cfg:37
+#: Imperial_Era/units/human-nemidians/Claimant.cfg:56
+#: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:32
+#: Imperial_Era/units/human-nemidians/Horseman.cfg:37
+#: Imperial_Era/units/human-nemidians/Horseman.cfg:48
+#: Imperial_Era/units/human-nemidians/River_Horse.cfg:31
 msgid "spear"
 msgstr "lance"
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:50
 #: Imperial_Era/units/dwarves-cavernei/Guardsman.cfg:42
+#: Imperial_Era/units/dwarves-cavernei/Sentinel.cfg:50
 #: Imperial_Era/units/dwarves-cavernei/Stalwart.cfg:45
+#: Imperial_Era/units/elves-wild/Wanderer.cfg:40
 #: Imperial_Era/units/human-lavinians/Skirmisher.cfg:38
 #: Imperial_Era/units/human-lavinians/Velite.cfg:41
-#: Imperial_Era/units/elves-wild/Wanderer.cfg:40
 msgid "javelin"
 msgstr "javelot"
 
@@ -422,10 +422,10 @@ msgid ""
 "retain the aura of mystery that surrounds all runic artists"
 msgstr ""
 
-#. [unit_type]: id=Marauder Lord, race=marauder
 #. [unit_type]: id=Cavernei Lord, race=cavernei
-#: Imperial_Era/units/human-marauders/Lord.cfg:5
+#. [unit_type]: id=Marauder Lord, race=marauder
 #: Imperial_Era/units/dwarves-cavernei/Lord.cfg:5
+#: Imperial_Era/units/human-marauders/Lord.cfg:5
 msgid "Lord"
 msgstr "Seigneur"
 
@@ -477,17 +477,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-arendians/Warlock.cfg:27
-#: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:25
 #: Imperial_Era/units/dwarves-cavernei/Monitor.cfg:28
 #: Imperial_Era/units/dwarves-cavernei/Observer.cfg:25
+#: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:25
+#: Imperial_Era/units/human-arendians/Warlock.cfg:27
 msgid "staff"
 msgstr "bâton"
 
 #. [attack]: type=impact
-#: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:34
 #: Imperial_Era/units/dwarves-cavernei/Monitor.cfg:37
 #: Imperial_Era/units/dwarves-cavernei/Observer.cfg:34
+#: Imperial_Era/units/dwarves-cavernei/Watcher.cfg:34
 msgid "runic spell"
 msgstr ""
 
@@ -599,8 +599,8 @@ msgstr ""
 "combat."
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:34
 #: Imperial_Era/units/dwarves-cavernei/Thunderer.cfg:50
+#: Imperial_Era/units/dwarves-cavernei/Thunderguard.cfg:34
 msgid "thunderstick"
 msgstr "bâton-tonnerre"
 
@@ -669,93 +669,93 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Imperial_Era/units/human-marauders/Lord.cfg:26
-#: Imperial_Era/units/human-marauders/Jarl.cfg:25
-#: Imperial_Era/units/human-marauders/Pillager.cfg:50
-#: Imperial_Era/units/human-marauders/Warrior.cfg:50
-#: Imperial_Era/units/human-marauders/Scorcher.cfg:51
-#: Imperial_Era/units/human-arendians/Warlord.cfg:27
-#: Imperial_Era/units/human-arendians/Chief.cfg:26
-#: Imperial_Era/units/human-arendians/Horseman.cfg:23
-#: Imperial_Era/units/human-arendians/Bowrider.cfg:23
-#: Imperial_Era/units/human-arendians/Archer.cfg:24
-#: Imperial_Era/units/human-arendians/Wanderer.cfg:27
-#: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:31
-#: Imperial_Era/units/human-arendians/Bowknight.cfg:23
-#: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:24
-#: Imperial_Era/units/human-arendians/Hunter.cfg:24
-#: Imperial_Era/units/human-arendians/Boltrider.cfg:22
-#: Imperial_Era/units/human-arendians/Feather_Bow.cfg:30
-#: Imperial_Era/units/human-arendians/Hero.cfg:28
-#: Imperial_Era/units/human-arendians/Swordsman.cfg:23
-#: Imperial_Era/units/human-arendians/Slayer.cfg:25
-#: Imperial_Era/units/human-arendians/Bowmaster.cfg:24
+#: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:27
+#: Imperial_Era/units/elves-frost/Archer.cfg:23
 #: Imperial_Era/units/elves-frost/Bladesman.cfg:22
 #: Imperial_Era/units/elves-frost/Borealis.cfg:24
-#: Imperial_Era/units/elves-frost/Archer.cfg:23
-#: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:25
 #: Imperial_Era/units/elves-frost/Gelus.cfg:23
 #: Imperial_Era/units/elves-frost/Ice_Dancer.cfg:26
-#: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:27
+#: Imperial_Era/units/elves-frost/Ice_Roamer.cfg:25
+#: Imperial_Era/units/elves-wild/Bladespinner.cfg:24
+#: Imperial_Era/units/elves-wild/Fury.cfg:27
+#: Imperial_Era/units/elves-wild/Herald.cfg:27
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:76
+#: Imperial_Era/units/elves-wild/Shadowdancer.cfg:24
 #: Imperial_Era/units/elves-wild/Tempest.cfg:43
 #: Imperial_Era/units/elves-wild/Veiledblade.cfg:23
-#: Imperial_Era/units/elves-wild/Whirlwind.cfg:28
-#: Imperial_Era/units/elves-wild/Shadowdancer.cfg:24
-#: Imperial_Era/units/elves-wild/Bladespinner.cfg:24
-#: Imperial_Era/units/elves-wild/Herald.cfg:27
-#: Imperial_Era/units/elves-wild/Fury.cfg:27
-#: Imperial_Era/units/elves-wild/Windlasher.cfg:43
+#: Imperial_Era/units/elves-wild/Wardancer.cfg:25
+#: Imperial_Era/units/elves-wild/Warmage.cfg:24
 #: Imperial_Era/units/elves-wild/Warrior.cfg:24
 #: Imperial_Era/units/elves-wild/Warsinger.cfg:28
-#: Imperial_Era/units/elves-wild/Wardancer.cfg:25
+#: Imperial_Era/units/elves-wild/Whirlwind.cfg:28
 #: Imperial_Era/units/elves-wild/Wildblade.cfg:27
-#: Imperial_Era/units/elves-wild/Warmage.cfg:24
+#: Imperial_Era/units/elves-wild/Windlasher.cfg:43
+#: Imperial_Era/units/human-arendians/Archer.cfg:24
+#: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:24
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:22
+#: Imperial_Era/units/human-arendians/Bowknight.cfg:23
+#: Imperial_Era/units/human-arendians/Bowmaster.cfg:24
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:23
+#: Imperial_Era/units/human-arendians/Chief.cfg:26
+#: Imperial_Era/units/human-arendians/Feather_Bow.cfg:30
+#: Imperial_Era/units/human-arendians/Hero.cfg:28
+#: Imperial_Era/units/human-arendians/Horseman.cfg:23
+#: Imperial_Era/units/human-arendians/Hunter.cfg:24
+#: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:31
+#: Imperial_Era/units/human-arendians/Slayer.cfg:25
+#: Imperial_Era/units/human-arendians/Swordsman.cfg:23
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:27
+#: Imperial_Era/units/human-arendians/Warlord.cfg:27
+#: Imperial_Era/units/human-marauders/Jarl.cfg:25
+#: Imperial_Era/units/human-marauders/Lord.cfg:26
+#: Imperial_Era/units/human-marauders/Pillager.cfg:50
+#: Imperial_Era/units/human-marauders/Scorcher.cfg:51
+#: Imperial_Era/units/human-marauders/Warrior.cfg:50
 msgid "sword"
 msgstr "épée"
 
-#. [attack]: type=pierce
 #. [attack]: type=impact
-#: Imperial_Era/units/elves-frost/Mountaineer.cfg:26
-#: Imperial_Era/units/elves-frost/Mountaineer.cfg:35
+#. [attack]: type=pierce
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:36
 #: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:45
+#: Imperial_Era/units/elves-frost/Mountaineer.cfg:26
+#: Imperial_Era/units/elves-frost/Mountaineer.cfg:35
 msgid "ice pick"
 msgstr "piolet"
 
-#. [attack]: type=pierce
 #. [attack]: type=fire
-#: Imperial_Era/units/human-marauders/Hunter.cfg:33
-#: Imperial_Era/units/human-marauders/Woodsman.cfg:34
-#: Imperial_Era/units/human-marauders/Axeman.cfg:55
-#: Imperial_Era/units/human-arendians/Bowrider.cfg:32
-#: Imperial_Era/units/human-arendians/Archer.cfg:33
-#: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:40
-#: Imperial_Era/units/human-arendians/Bowknight.cfg:32
-#: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:33
-#: Imperial_Era/units/human-arendians/Hunter.cfg:33
-#: Imperial_Era/units/human-arendians/Boltrider.cfg:31
-#: Imperial_Era/units/human-arendians/Feather_Bow.cfg:39
-#: Imperial_Era/units/human-arendians/Slayer.cfg:34
-#: Imperial_Era/units/human-arendians/Bowmaster.cfg:33
-#: Imperial_Era/units/elves-frost/Borealis.cfg:33
+#. [attack]: type=pierce
+#: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:54
 #: Imperial_Era/units/elves-frost/Archer.cfg:32
+#: Imperial_Era/units/elves-frost/Borealis.cfg:33
 #: Imperial_Era/units/elves-frost/Gelus.cfg:32
 #: Imperial_Era/units/elves-frost/Mountaineer.cfg:44
-#: Imperial_Era/units/elves-frost/Alpine_Ranger.cfg:54
+#: Imperial_Era/units/human-arendians/Archer.cfg:33
+#: Imperial_Era/units/human-arendians/Arrow_Wind.cfg:33
+#: Imperial_Era/units/human-arendians/Boltrider.cfg:31
+#: Imperial_Era/units/human-arendians/Bowknight.cfg:32
+#: Imperial_Era/units/human-arendians/Bowmaster.cfg:33
+#: Imperial_Era/units/human-arendians/Bowrider.cfg:32
+#: Imperial_Era/units/human-arendians/Feather_Bow.cfg:39
+#: Imperial_Era/units/human-arendians/Hunter.cfg:33
+#: Imperial_Era/units/human-arendians/Mounted-Marksman.cfg:40
+#: Imperial_Era/units/human-arendians/Slayer.cfg:34
 #: Imperial_Era/units/human-lavinians/Bowman.cfg:27
 #: Imperial_Era/units/human-lavinians/Bowman.cfg:35
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:25
 #: Imperial_Era/units/human-lavinians/Saggitarius.cfg:36
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:25
 #: Imperial_Era/units/human-lavinians/Siege_Archer.cfg:36
+#: Imperial_Era/units/human-marauders/Axeman.cfg:55
+#: Imperial_Era/units/human-marauders/Hunter.cfg:33
+#: Imperial_Era/units/human-marauders/Woodsman.cfg:34
 msgid "bow"
 msgstr "arc"
 
 #. [unit_type]: id=Arendian Archer, race=arendian
 #. [unit_type]: id=Frost Elf Archer, race=issaelfr
-#: Imperial_Era/units/human-arendians/Archer.cfg:5
 #: Imperial_Era/units/elves-frost/Archer.cfg:5
+#: Imperial_Era/units/human-arendians/Archer.cfg:5
 msgid "Archer"
 msgstr "Archer"
 
@@ -917,8 +917,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:38
 #: Imperial_Era/units/elves-frost/Mistral_Cryomancer.cfg:39
+#: Imperial_Era/units/elves-frost/Mistral_Glacialist.cfg:38
 msgid "ice"
 msgstr ""
 
@@ -1024,19 +1024,19 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:25
-#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:24
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:24
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:24
+#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:25
 msgid "horns"
 msgstr "cornes"
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:37
-#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:46
-#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:36
-#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:45
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:36
 #: Imperial_Era/units/elves-frost/Yak_Knight.cfg:45
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:36
+#: Imperial_Era/units/elves-frost/Yak_Rider.cfg:45
+#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:37
+#: Imperial_Era/units/elves-frost/Yakmount_Margrave.cfg:46
 msgid "harpoon"
 msgstr "harpon"
 
@@ -1095,10 +1095,10 @@ msgstr ""
 msgid "Dark Thunderblade"
 msgstr ""
 
-#. [unit_type]: id=Wild Elf Thunderblade, race=sidhe
 #. [unit_type]: id=Wild Elf Dark Thunderblade, race=sidhe
-#: Imperial_Era/units/elves-wild/Thunderblade.cfg:19
+#. [unit_type]: id=Wild Elf Thunderblade, race=sidhe
 #: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:19
+#: Imperial_Era/units/elves-wild/Thunderblade.cfg:19
 msgid ""
 "When the first sidhe lord died in battle, the shards of his mighty sword "
 "were collected and kept preciously by the fines wild elf mages. If a sidhe "
@@ -1118,13 +1118,13 @@ msgid "dark thunderblade"
 msgstr ""
 
 #. [attack]: type=energy
+#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:36
 #: Imperial_Era/units/elves-wild/Raindancer.cfg:85
+#: Imperial_Era/units/elves-wild/Stormlord.cfg:33
 #: Imperial_Era/units/elves-wild/Tempest.cfg:52
 #: Imperial_Era/units/elves-wild/Thunderblade.cfg:36
-#: Imperial_Era/units/elves-wild/Windlasher.cfg:52
-#: Imperial_Era/units/elves-wild/Dark_Thunderblade.cfg:36
-#: Imperial_Era/units/elves-wild/Stormlord.cfg:33
 #: Imperial_Era/units/elves-wild/Warmage.cfg:33
+#: Imperial_Era/units/elves-wild/Windlasher.cfg:52
 msgid "lightning"
 msgstr "éclair"
 
@@ -1277,8 +1277,8 @@ msgstr ""
 
 #. [unit_type]: id=Arendian Wanderer, race=arendian
 #. [unit_type]: id=Wild Elf Wanderer, race=sidhe
-#: Imperial_Era/units/human-arendians/Wanderer.cfg:5
 #: Imperial_Era/units/elves-wild/Wanderer.cfg:5
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:5
 msgid "Wanderer"
 msgstr "Errant"
 
@@ -1331,12 +1331,12 @@ msgstr ""
 "corps à corps sont facilement comparables à celles des guerriers et leur "
 "magie les aide beaucoup."
 
-#. [unit_type]: id=Marauder Warrior, race=marauder
 #. [unit_type]: id=Arendian Warrior, race=arendian
+#. [unit_type]: id=Marauder Warrior, race=marauder
 #. [unit_type]: id=Wild Elf Warrior, race=sidhe
-#: Imperial_Era/units/human-marauders/Warrior.cfg:5
-#: Imperial_Era/units/human-arendians/Warrior.cfg:5
 #: Imperial_Era/units/elves-wild/Warrior.cfg:5
+#: Imperial_Era/units/human-arendians/Warrior.cfg:5
+#: Imperial_Era/units/human-marauders/Warrior.cfg:5
 msgid "Warrior"
 msgstr "Guerrier"
 
@@ -1625,11 +1625,11 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-marauders/Fay.cfg:47
-#: Imperial_Era/units/human-marauders/Seeress.cfg:23
-#: Imperial_Era/units/human-marauders/Galdra.cfg:24
 #: Imperial_Era/units/human-arendians/Druid.cfg:26
 #: Imperial_Era/units/human-arendians/Shaman.cfg:26
+#: Imperial_Era/units/human-marauders/Fay.cfg:47
+#: Imperial_Era/units/human-marauders/Galdra.cfg:24
+#: Imperial_Era/units/human-marauders/Seeress.cfg:23
 msgid "fist"
 msgstr "poing"
 
@@ -1673,8 +1673,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Imperial_Era/units/human-arendians/Wanderer.cfg:36
 #: Imperial_Era/units/human-arendians/Hero.cfg:37
+#: Imperial_Era/units/human-arendians/Wanderer.cfg:36
 msgid "throwing knives"
 msgstr "couteaux de lancer"
 
@@ -1712,10 +1712,10 @@ msgid ""
 "rear. "
 msgstr ""
 
-#. [unit_type]: id=Marauder Hunter, race=marauder
 #. [unit_type]: id=Arendian Hunter, race=arendian
-#: Imperial_Era/units/human-marauders/Hunter.cfg:5
+#. [unit_type]: id=Marauder Hunter, race=marauder
 #: Imperial_Era/units/human-arendians/Hunter.cfg:5
+#: Imperial_Era/units/human-marauders/Hunter.cfg:5
 msgid "Hunter"
 msgstr "Chasseur"
 
@@ -1937,20 +1937,20 @@ msgstr ""
 "force pour la bataille, même au fin fond de la nuit."
 
 #. [attack]: type=blade
-#: Imperial_Era/units/human-lavinians/Centurion.cfg:26
-#: Imperial_Era/units/human-lavinians/Slinger.cfg:22
-#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:25
+#: Imperial_Era/units/human-lavinians/Aquilifer.cfg:25
 #: Imperial_Era/units/human-lavinians/Archuballistarius.cfg:21
+#: Imperial_Era/units/human-lavinians/Auxiliary.cfg:22
+#: Imperial_Era/units/human-lavinians/Ballista.cfg:20
+#: Imperial_Era/units/human-lavinians/Centurion.cfg:26
+#: Imperial_Era/units/human-lavinians/Decurion.cfg:24
+#: Imperial_Era/units/human-lavinians/Funditor.cfg:23
+#: Imperial_Era/units/human-lavinians/Legionnaire.cfg:21
+#: Imperial_Era/units/human-lavinians/Light_Infantry.cfg:23
+#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:25
+#: Imperial_Era/units/human-lavinians/Propugnator.cfg:24
 #: Imperial_Era/units/human-lavinians/Rorarius.cfg:23
 #: Imperial_Era/units/human-lavinians/Signifer.cfg:24
-#: Imperial_Era/units/human-lavinians/Legionnaire.cfg:21
-#: Imperial_Era/units/human-lavinians/Decurion.cfg:24
-#: Imperial_Era/units/human-lavinians/Light_Infantry.cfg:23
-#: Imperial_Era/units/human-lavinians/Aquilifer.cfg:25
-#: Imperial_Era/units/human-lavinians/Funditor.cfg:23
-#: Imperial_Era/units/human-lavinians/Ballista.cfg:20
-#: Imperial_Era/units/human-lavinians/Propugnator.cfg:24
-#: Imperial_Era/units/human-lavinians/Auxiliary.cfg:22
+#: Imperial_Era/units/human-lavinians/Slinger.cfg:22
 msgid "gladius"
 msgstr "gladius"
 
@@ -2052,9 +2052,9 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: Imperial_Era/units/human-lavinians/Centurion.cfg:47
-#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:50
-#: Imperial_Era/units/human-lavinians/Legionnaire.cfg:41
 #: Imperial_Era/units/human-lavinians/Decurion.cfg:45
+#: Imperial_Era/units/human-lavinians/Legionnaire.cfg:41
+#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:50
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:49
 msgid "pilum"
 msgstr "pilum"
@@ -2093,8 +2093,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-lavinians/Slinger.cfg:31
 #: Imperial_Era/units/human-lavinians/Funditor.cfg:32
+#: Imperial_Era/units/human-lavinians/Slinger.cfg:31
 msgid "sling"
 msgstr "fronde"
 
@@ -2116,8 +2116,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:34
 #: Imperial_Era/units/human-lavinians/Legionnaire.cfg:30
+#: Imperial_Era/units/human-lavinians/Praetorian_Guard.cfg:34
 #: Imperial_Era/units/human-lavinians/Propugnator.cfg:33
 msgid "shield"
 msgstr "bouclier"
@@ -2362,8 +2362,8 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Imperial_Era/units/human-marauders/Mauler.cfg:41
 #: Imperial_Era/units/human-marauders/Crusher.cfg:40
+#: Imperial_Era/units/human-marauders/Mauler.cfg:41
 msgid "maul"
 msgstr "cognée"
 
@@ -2384,8 +2384,8 @@ msgstr ""
 
 #. [attack]: type=cold
 #: Imperial_Era/units/human-marauders/Fay.cfg:59
-#: Imperial_Era/units/human-marauders/Seeress.cfg:35
 #: Imperial_Era/units/human-marauders/Galdra.cfg:36
+#: Imperial_Era/units/human-marauders/Seeress.cfg:35
 msgid "cold blast"
 msgstr "onde glaciale"
 
@@ -2495,8 +2495,8 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Imperial_Era/units/human-marauders/Pillager.cfg:59
-#: Imperial_Era/units/human-marauders/Warrior.cfg:59
 #: Imperial_Era/units/human-marauders/Scorcher.cfg:60
+#: Imperial_Era/units/human-marauders/Warrior.cfg:59
 msgid "torch"
 msgstr "torche"
 
@@ -2721,9 +2721,9 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
+#: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:24
 #: Imperial_Era/units/human-nemidians/River_Calf.cfg:23
 #: Imperial_Era/units/human-nemidians/River_Horse.cfg:23
-#: Imperial_Era/units/human-nemidians/Hippopotamus.cfg:24
 msgid "head-butt"
 msgstr "coup de tête"
 
